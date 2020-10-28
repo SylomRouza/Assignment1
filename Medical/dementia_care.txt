@@ -1,0 +1,808 @@
+Dementia care: mental health eff ects, intervention
+strategies, and clinical implications
+Silvia Sörensen, Paul Duberstein, David Gill, Martin Pinquart
+Caring for elderly people with dementia is associated with well-documented increases in burden, distress, and
+decrements in mental health and wellbeing. More severe behavioural, cognitive, and functional impairments in a
+patient are associated with higher levels of burden and distress. Distress increases with care hours per week, number
+of tasks, and declining coping and support resources. Demographic factors also aff ect levels of burden and distress.
+Promising, evidence-based interventions exist, but substantial economic and policy barriers preclude their widespread
+dissemination. Health-care policy makers should consider addressing these barriers; clinicians and families must
+campaign for reimbursement; and clinical researchers must develop more potent preventive interventions. In this
+article we review how dementia care aff ects the mental health of the carer and identify interventions that might be
+useful in mitigating carer burden and distress.
+There are nearly 18 million people with dementia in the
+world,1 and the number of adults that provide care to
+relatives with dementia is growing.2 8·9 million people
+care for people with dementia3 in the USA, and on the
+basis of dementia rates, more than 750 000 people
+provide dementia care in the UK.1 Carers provide these
+unpaid services to society and their family members at
+substantial personal cost4 and risk to their own
+psychological and physical wellbeing. Morbidity is
+particularly high among carers of patients with
+dementia.5–10 These adverse eff ects are infl uenced by the
+carer’s personal and demographic characteristics, coping
+resources, and available support resources. Other
+important considerations are the patient’s level of
+impairment, the number of hours spent caring, and
+whether the carer is a spouse or adult child. Although the
+carer’s wellbeing is not necessarily the responsibility of
+the patient’s neurologist, caring is a clinical and socially
+relevant issue with which neurologists should be familiar,
+especially as recent evidence suggests that the carer’s
+ability to cope eff ectively is associated with the patient’s
+survival11 and time until institutionalisation.12
+There are thousands of studies about dementia care. A
+MEDLINE search of the terms “caregiver” (and its
+cognates) and “dementia” yielded almost 1500 articles
+over the past 5 years alone. There are also several
+systematic narrative reviews.5,6,13–16 In this review we draw
+on several meta-analyses to summarise both the
+psychosocial and mental-health eff ects of dementia care
+and the interventions used to mitigate adverse outcomes
+and increase positive growth and change.9,10,17–23
+Psychosocial eff ects of dementia care
+Carer outcomes
+In this review we focus on the psychosocial eff ects of
+caring, including carer burden, symptoms of depression
+and anxiety, a reduction in subjective wellbeing, and
+positive experiences (panel 1).1,19,24–26 Carer burden is the
+eff ect on physical, psychological, social, spiritual, and
+fi nancial wellbeing.27 The term encompasses both
+objective burden (events and activities associated with a
+negative caring experience and practical consequences of
+physical and behavioural changes of the patient) and
+subjective burden (emotional reactions of the carer).
+Objective and subjective burden are moderately to
+strongly associated,28,29 supporting the use of global
+measures that include indicators of both.30
+Other indicators of distress include symptoms of
+depression and anxiety, which are commonly assessed by
+self-report rather than by clinical rating scales or
+structured interviews designed to establish the presence
+of mood disorders.6 Perceived stress31 and subjective
+wellbeing32 are also important. Subjective wellbeing
+refers to positive eff ect,33 life satisfaction,34 and perceived
+quality of life.35 Carers also report feeling virtuous, useful,
+and proud, and may even experience a deepening of their
+relationship with the patient.36–38
+Are carers more distressed than non-carers?
+In 1893, Breuer and Freud39 described the health
+consequences of caring. In their discussion of the case of
+Elisabeth Von R, the authors expressed concern that “sick
+nursing” could lead to sleep disturbance, self-neglect,
+and constant worry.39 Over the past decade, narrative
+reviews and meta-analyses provide substantial evidence
+for these clinical observations. Carers of people with
+dementia have more symptoms of depression, higher
+stress scores, lower self-effi cacy, and lower subjective
+wellbeing than non-carers.9 There are few studies about
+anxiety in dementia carers, but most have shown similar
+eff ects. For example, in a recent English study, almost
+25% of carers had clinically signifi cant levels of anxiety
+symptoms.40
+Several associated methodological issues must be
+considered when assessing research on carers’
+psychosocial outcomes. Most samples are not drawn
+randomly, nor are they followed prospectively. Two
+prospective studies show that for those transitioning to
+intensive caring roles, there is an increase over time in
+distress, health problems, and health-risk behaviour.
+However, before becoming carers, these individuals
+reported poorer health, lower mastery, and more
+depression symptoms than non-carers.41,42 Thus, carers
+may have self-selected themselves into the role or been
+selected into the role by someone else. These selection
+processes could indicate family dynamics or individual
+personality traits. High distress levels and attendant
+morbidity could partially be explained by personal or
+family variables that are not associated with the caring
+experience per se.43,44 Many studies of carers have not
+considered the eff ects of carer personality or other
+seemingly distal indicators of resources and
+vulnerabilities (eg, access to economic resources).
+Inadequate covariate coverage may lead to overestimates
+of the unique stressors of caregiving.
+Another issue that has received insuffi cient attention is
+whether the apparently adverse psychosocial outcomes
+are clinically (as opposed to statistically) signifi cant. There
+are three possible criteria for clinical signifi cance: scoring
+above clinical cut-off s for symptomatology or meeting
+diagnostic criteria for a mental disorder; measurably
+reduced quality of life of carers or patients; and increased
+health-care costs. The fi rst criterion is supported by the
+fact that a substantial proportion of carers score above
+clinical cut-off s for depression and anxiety.40 The prevalence
+of clinically diagnosed major depression ranges from
+10%45,46 to 83%47 among carers in dementia. Both carers’
+raised levels of depression, anxiety, and perceived stress
+and their increased physical health and physiological risks
+suggest a low quality of life.24,48 Health-care costs are
+increased by greater physical health and mortality risks,49
+reduced self-care behaviour,50 and increased nursing-home
+placement with high levels of burden.51,52
+Why is caring stressful?
+Several models of carer burden and stress38,53–57 describe
+the association of stressors with outcomes (fi gure).55,58–61
+Primary stressors
+Primary stressors largely indicate the nature and intensity
+of the carer’s experience, including the severity of patient’s
+medical condition, problem behaviour, and cognitive or
+functional impairment. Other important factors are
+duration (in months or years) and intensity of care provided
+(including hours per day and number of care tasks).
+A large meta-analysis10 showed that for dementia carers
+the strongest predictor of burden and symptoms of
+depression is the patient’s behaviour—eg, day and nighttime
+wandering, emotional outbursts—and inappropriate
+behaviour. Carers also experience more burden when
+care intensity is high and more burden and depression
+when the carer experiences fewer perceived benefi ts or
+positive experiences. Although physical impairments in
+patients increase burden for carers of patients without
+dementia, this is rarely the case for dementia carers. In
+this group, unmet needs for help with diff erent care
+activities (eg, help with tasks, information, and family
+support) might be important.62
+Secondary stressors
+Other factors that contribute to carer burden are
+attributable directly to caring and include interference
+with work, fi nancial strain, and family confl ict—carers
+may have less energy for other family members and
+disagreements commonly arise about the division of care
+responsibilities.63,64 Opportunity costs include decreased
+leisure, fewer opportunities for socialising, and less time
+and energy available for exercise and other health
+promoting activities. Carers also miss work often, may be
+tired at work, and forgo new job opportunities and
+promotions.65,66
+Secondary stressors typically act as intervening variables
+(mediators) that change due to primary stressors and in
+turn amplify distress. For example, caring intensity and
+duration (primary stressors) can erode social support and
+lead to social isolation (secondary stressor and mediator),
+thereby increasing burden and distress.67 Similarly,
+primary stressors can undermine health habits
+(eg, maintaining a healthy diet, engaging in regular
+exercise) or lead to sleep disturbance and deprivation68,69
+with adverse eff ects on emotional wellbeing.19
+Appraisal
+Appraisal is the carer’s subjective assessment of their role.
+Carers with seemingly identical objective demands
+(intensity and tasks) may diff er tremendously in their level
+of burden because of diff ering assessments of whether
+their personal coping strategies and capacities match the
+demands of the situation. When carers believe that the
+demands of the situation will inexorably exceed their
+resources and feel trapped in their role, rates of morbidity,70
+and depressive symptoms10,71 are higher, and patients are
+institutionalised sooner.12 Appraisal diff erences may be
+infl uenced by exacerbating and mitigating factors, such as
+race and ethnicity,72,73 personality traits,74,75 physical illness,69
+and personal and contextual resources.74,76
+Exacerbating and mitigating factors
+The extent to which primary stressors lead to secondary
+stressors, then to negative appraisal of the situation, and to
+increased risk for adverse carer outcomes is determined in
+part by exacerbating and mitigating factors (moderators).
+Mitigating factors may include knowledge or information
+of the carer, social, economic, and community resources as
+well as intrapersonal resources. Due to lack of knowledge,
+for example, carers usally overestimate patients’ abilities,77,78
+which may result in anger, frustration, and depression.79,80
+Carers with large social networks and suffi cient economic
+resources to purchase the services of formal helpers may
+be able to maintain gainful employment outside the home,
+whereas carers who are the sole support for a frail elderly
+person may need to reduce work hours. Large social
+networks,71 frequent social contact,74 and the ability to
+arrange for assistance from friends81 are associated with
+fewer depressive symptoms or lower burden. Dysfunctional
+family interaction patterns, emotional detachment,
+negativity, and over involvement exacerbate the association
+between objective burden and carer distress.82
+Carers who believe they have control over their future
+life and circumstances are less likely to experience
+adverse mental-health outcomes in response to stressors,83
+probably because they appraise the situation diff erently
+than carers who believe they have less control over their
+circumstances. Cooper and colleagues84 reported that
+dysfunctional coping strategies, for example avoidance
+or denial, put carers at risk for anxiety, and Aschenbacher
+and colleagues85 found that approach-based coping was
+associated with reduced haemostatic reactivity in
+response to stress. However, there are problems
+associated with the defi nition of coping,86 and fi ndings
+are somewhat inconsistent.87,88 Exacerbating factors can
+also include personal vulnerabilities, such as high levels
+of neuroticism74,75 or pre-existing medical disorders.19
+High risk subgroups: women and spouse carers
+Female carers report more symptoms of depression, in
+part because women are simply more likely to report such
+symptoms in the general population,89 but also because
+female carers are more likely to provide more hours of
+care, help with more tasks, and assist with personal care.23
+Diff erences between carers and non-carers in symptoms
+of stress and depression are greater in samples of spouses
+than in samples of adult children.9 Studies that compare
+spouse and non-spouse carers directly also fi nd high
+levels of distress among the spouses.90
+Race, ethnicity, and socioeconomic status
+In a meta-analysis of 116 studies from the USA of all
+types of carers,17 we mostly found that there were ethnic
+diff erences in carer burden and depression symptoms.
+Black carers report lower burden than white carers. In
+longitudinal studies black carers also show better
+adaptation with regard to depression and life satisfaction
+over extended periods of time.91 Asian and Latin American
+carers do not diff er from white carers in burden but they
+report more depression symptoms. Black carers
+experience fewer depression symptoms than white
+carers. Interestingly, black and Latin Americans have
+more perceived uplifts of caring than white carers, but
+there are no diff erences between Asian and white carers.
+Several studies suggest that diff erences in coping styles
+may account for some of the ethnic diff erences in
+outcomes. Black92,93 and Latin American carers73 are more
+likely to use a religious form of coping and report more
+benign appraisals of stress than white people. Despite
+the better mental health outcomes of black and Latin
+American carers, ethnic minority carers tend to report
+worse physical health than white carers. Thus low reports
+of distress might not always imply the absence of risk for
+carers.17
+Although socioeconomic status is commonly only used
+as a covariate, low socioeconomic status or income were
+associated with greater carer distress in one study,94 but
+with less distress in others,95 especially among black
+carers.96,97
+Summary of eff ects of care
+Those who care for people with dementia report higher
+levels of stress, depression, and anxiety symptoms, and
+lower levels of subjective wellbeing and self-effi cacy
+compared with non-carers. These eff ects may diff er in
+certain demographic groups and seem to be attributable
+largely to the types of stressors dementia carers are exposed
+to, especially the patient’s behaviour problems. Although
+intensity of care amplifi es risk, there are individual
+diff erences in how carers respond to task demands. For
+some carers, personality traits (such as high neuroticism
+or low extraversion), the absence of a substantial social and
+family network, and poor coping skills may add to their
+vulnerability and should be considered in the selection and
+use of treatments and prevention programmes.
+Carer interventions
+The last decade has seen a substantial increase both in
+the number and the quality of carer interventions aimed
+to reduce both adverse outcomes of care and nursinghome
+placement of patients. Meta-analyses20–23,98–100 have
+provided a reasonably accurate assessment of the
+eff ectiveness of these interventions, though they vary
+substantially in numbers of studies reviewed, ranging
+from 24 to 120 studies. We base this discussion primarily
+on our meta-analysis of 78 intervention studies with
+carers of patients with dementia and physically ill elderly
+people20 and an updated study of dementia carers
+involving 120 studies.23
+In addition, we draw on recently published results from
+an exemplary, recently completed study, the Resources
+for Enhancing Alzheimer’s Caregiver Health (known as
+REACH), a large multisite trial of diff erent carer
+interventions.101,102
+Types of interventions
+Classifi cation of interventions is problematic because
+many interventions share common components. We have
+identifi ed nine major types of interventions and classify
+these programmes based on the predominant
+approach.23,103
+Consultation or case management includes practical
+advice and information, family consultation, and referrals
+to potentially helpful agencies or organisations;104
+however, this directive approach does not aim to change
+individuals’ coping styles or beliefs.
+Psychotherapy includes individual or group-based
+psychodynamic, behavioural, and cognitive-behavioural
+therapy.105 Cognitive-behaviour therapy techniques are
+most common (90%) and help the carer focus on the
+identifi cation and modifi cation of unproductive beliefs
+and behaviours and the development of new behaviours
+to deal with the demands and emotions of caring.106
+Psychoeducation is the structured presentation of
+information about dementia, expectable caring issues,
+stress management, and techniques to manage the
+patients’ behaviour. This intervention may also include
+role playing and other active learning techniques.107
+Support groups provide the opportunity to share
+personal feelings and concerns, encourage mutuality and
+validation, and overcome feelings of social isolation.108
+Experts may be invited for brief periods to provide
+medical, legal, and other information.
+Respite off ers substitute care to provide planned,
+temporary relief to the carer, through group day care, inhome
+respite, or institutional respite (vacation or
+emergency respite).79,109
+Training for the patient attempts to improve the social
+and everyday competence of patients with dementia.110
+Pharmacotherapy for patients with dementia can reduce
+problem behaviour, improve activities of daily living, and
+stabilise cognitive impairment,100,111 which in turn may
+reduce carer burden.100 Pharmacotherapy for carers could
+reduce depression, anxiety, insomnia, and other
+symptoms.112
+Multicomponent interventions involve combining
+components from diff erent interventions, such as
+education, support, and respite.113 Some interventions are
+structured to ensure that participants get all components,
+and others are less structured.
+There are other forms of interventions that are rarely
+used, such as life-review,114 yoga,115 employer-based
+interventions,116 telephone support groups,117 and new
+technologies.118
+Which interventions work?
+Recent meta-analyses suggest that carer interventions
+overall are eff ective, but that the eff ects are relatively
+small23 and domain-specifi c. Psychoeducational
+interventions are most eff ective at improving carer
+knowledge (medium eff ects), reducing burden and
+depression symptoms, and increasing subjective
+wellbeing and satisfaction (small eff ects). However,
+except for an increase in knowledge, these eff ects are
+present only if the interventions call for active
+participation and skill-building,23 for example, by
+combining educational components with homework and
+role-playing activities that help participants apply the
+newly gained skills.119 Psychoeducational interventions
+may improve the symptoms of the patient as well,22
+perhaps, by training the carer to redirect the patient to
+avoid escalation of problem behaviour.
+Other interventions also have mostly small eff ects.120
+Psychotherapy (primarily cognitive-behavioural therapy),
+support groups, consultation or case management,
+respite care, and cognitive training of the patient tend to
+have domain-specifi c eff ects. For example, psychotherapy
+improves carer burden, depression,23 and anxiety,121 but
+not necessarily knowledge about dementia; consultation
+or case management have moderate eff ects on burden,
+but not depression; training the patient aff ects the
+patient’s symptoms but not the carer’s; and respite care
+reduces burden and depression symptoms and increases
+subjective wellbeing.23 Because diff erent intervention
+types share elements (for example, homework and roleplaying
+are part of both psychotherapy and
+psychoeducation), a focus on the components may be
+more important than packaged programmes.
+Multicomponent treatments encompass a diverse
+group of programmes and some are substantially more
+systematic in their application of components than
+others. Our meta-analysis of 120 studies shows no eff ects
+of these approaches overall, but interventions that are
+well structured and expose participants to all components
+are eff ective in delaying nursing-home placement of
+patients.23,122 These programmes are probably eff ective
+because they target many of the primary stressors,
+secondary stressors, and moderators (fi gure).
+Four criteria have been suggested for clinical
+signifi cance of interventions:123 acceptability to those
+being treated (social validity), eff ects on symptoms,
+improved quality of life, and societal signifi cance. Social
+validity is fairly well documented, although high levels of
+carer satisfaction are sometimes associated with
+otherwise ineff ective inter ventions,124 so this criterion
+might not be particularly useful.
+Most studies of carer interventions do not report clinical
+diagnoses, but clinical eff ectiveness can be estimated by
+how large a symptom reduction the experimental group
+experiences compared with the control group. In our
+most recent meta-analysis, 54–57% of the participants
+showed above-average improvement in depression
+compared with 43–47% of control group members.23
+Schulz and colleagues123 conclude that clinically signifi cant
+eff ects of interventions are most visible for reduction of
+depression, and, to a lesser degree anxiety symptoms.
+Improved quality of life is refl ected in increases in selfeffi
+cacy, subjective wellbeing, and reductions in perceived
+stress.20,23 Thus, the results are clinically and practically
+meaningful for both symptomatology and quality of life.
+However, improvements are modest in size and cost
+savings to society have rarely been assessed.125 Delaying
+institutionalisation addresses the issue of societal
+signifi cance, given the high societal cost of nursing-home
+care.126 One study11 suggests improved survival for patients
+when carers have more eff ective coping skills, showing
+the broader relevance of carer interventions.
+Another method of trying to understand the eff ect of
+interventions on patients is to compare the eff ect sizes
+for a given outcome with the magnitude of the diff erence
+between carers without the intervention and non-carers
+(table 1).9,23
+Moderators of intervention eff ectiveness
+Individualised interventions can be more easily adapted
+to the specifi c needs of the carers and may, therefore, be
+more eff ective in helping burden or distress for carers in
+general.20 However, group interventions are more
+eff ective at increasing social support127 and those that
+avoid dilution of the participant’s active involvement will
+probably be as eff ective as individual settings.
+Interventions applied for a long time are more eff ective
+than short-duration interventions22 at reducing distress
+and delaying institutionalisation.23 Even single-component
+interventions, if they last longer or involve more frequent
+interactions, tend to have greater eff ects than less intense
+interventions that have multiple components.24
+Because elderly carers may have less access to
+information about dementia care in their daily lives, they
+show greater improvements in knowledge; however, the
+eff ects of age are rarely reported.23
+Women are more likely than men to improve in
+depression and knowledge but less likely in subjective
+wellbeing.23
+Spouses benefi t more from interventions than children
+of the patient with regard to decreasing the number of
+patients’ problem behaviours128 and delaying nursinghome
+placement.23
+Why do interventions precipitate positive
+change?
+The identifi cation of which intervention components are
+eff ective can provide information not available when
+whole interventions are compared129,130 and can identify
+parts of the stress process (fi gure) that are easiest to
+target. Recent studies that involve mediation analysis131
+and task analysis132 have attempted to isolate parts of an
+intervention that work especially well so that future
+interventions can focus on implementing components
+that have the greatest likelihood of success (fi gure).
+Primary stressors
+Limiting the intensity of care is unequivocally eff ective at
+reducing carer distress, as is shown by respite-care
+interventions.79 Because unmet need is an additional
+stressor, future research may also investigate the
+possibility of identifying and targeting unmet needs.132
+Secondary stressors: increasing social support
+Reduction of secondary stressors, such as social
+isolation, is an eff ective strategy. Roth and colleagues131
+found that increasing the carer’s social support network
+size and improving their satisfaction with social
+support lowered levels of burden and depression.
+Similarly, Eisdorfer and colleagues133 found that family
+counselling and a computer–telephone technology
+intervention increased social support and carers’
+depression scores.
+Moderators: training and its eff ects on appraisal
+Programmes that teach carers particular behaviourmanagement
+skills and help them actively apply these skills
+to their own situation improve carer burden and depression
+symptoms23,129 as well as reduce patients’ symptoms.119
+Gaining behavioural management skills may aff ect
+appraisal by reducing the overwhelming nature of the carer
+tasks. Given the positive eff ects of mastery,83 interventions
+that target mastery both by adjustment of skill levels and
+appraisals should be tested for eff ectiveness.
+Reduction of perceived pressure eff ectively improves
+psychological distress.134 Increased behavioural
+management and coping skills also boost self-effi cacy
+and perceived situational control, which reduce
+depressive symptoms135 and negative mood.136 Because
+positive appraisal, fi nding meaning, and recognition of
+enjoyable features of caring are associated with fewer
+depressive symptoms and greater subjective wellbeing,18
+interventions that help develop and recognise positive
+aspects of caring may protect carers against burden and
+distress. However, such interventions still need further
+assessment.
+Future research
+Although it is well established that many carers suff er
+physically and emotionally when providing care, the
+protective factors that enable some carers to maintain
+low levels of distress are unknown. More longitudinal
+and prospective studies of factors that predispose carers
+to greater resilience or vulnerability are needed.
+Published consensus guidelines support assessment of
+carers’ emotional health and subsequent referral to
+community educational and support programmes for
+those in need.137–139 Unfortunately, none of these guidelines
+identify when or how to identify the degree of carer
+distress. Research also rarely addresses the issue of carer
+safety.140 Studies on how to assess when patients’
+behaviour is dangerous to themselves or carers are
+necessary. Screening methods that are validated
+specifi cally with carers are needed to identify carers at
+risk of adverse outcomes and to instigate referral or direct
+interventions.
+More eff ective interventions with larger, longer-lasting
+eff ects on a wider range of domains are needed. Gaining
+a better understanding of the mediators of eff ectiveness,
+developing ways to individualise interventions for carers
+(eg, spouses versus adult children) and clarifying when
+to use group rather than individual interventions are
+high priorities. Learning how to identify and target
+specifi c unmet needs of carers is also important.132 Also,
+more work is needed to address the necessary and
+suffi cient doseage of interventions. Promising approaches
+not covered in the meta-analyses20,23 include employerbased
+interventions,116 telephone support groups,117 and
+in-home skill building.141 These approaches need to be
+assessed more thoroughly.
+Research is also needed to assess how to reduce carers
+reluctance to use respite care and other available
+services142 and how to create cost-eff ective approaches
+with acceptability for practising clinicians.
+Recommendations for clinicians
+Screening
+Safety concerns must be identifi ed and addressed. The
+patient’s access to and use of stoves and kitchen
+equipment, motor vehicles, and fi rearms should be
+discussed. Carers should also be asked whether they feel
+physically threatened by patients (see Home Safety
+information on National Institute on Aging Website143).
+The level of carer distress should be gauged. There are
+no relevant and valid screening methods for clinical use.
+However, two organisations have recommended clinical
+methods. The American Medical Association’s 18 item
+“caregiver self-assessment tool” is available on their
+website.144 The Alzheimer’s Association in collaboration
+with the National Chronic Care Consortium suggests
+the “Caregiver Strain Instrument”.145 Suggested cut-off
+values are provided which may serve as a resource for
+physicians and carers alike. However, until these
+methods are clinically validated, they should be used in
+conjunction with a clinical interview. When assessing
+carers it must be noted that high-risk carers are usually
+socially isolated, have diffi cult and tense family
+interactions, and fewer eff ective coping skills (eg, tend to
+use avoidance or denial). Furthermore, vulnerability may
+be greater for spouses, women, specifi c ethnic groups,
+and those caring for a patient with apparent behaviour
+problems.
+Another approach to assessment of carer distress is to
+screen for depression. Controversy surrounds the use of
+screening methods used to identify patients with mood
+disorders in primary-care settings.146,147 Whether traditional
+depression screens, such as the geriatric depression
+scale,148,149 are valid methods for the identifi cation of carers
+who can benefi t from preventive intervention is unknown,
+but these methods can be used to identify elderly carers
+in whom depression may be suspected.
+Acute intervention
+Once a carer has been identifi ed as needing further
+support, the clinician can consider an intervention. The
+choice of intervention depends partly on the resources
+available to the neurologist and the profi le of specifi c
+needs of the patient (table 2). Cultural relevance and
+appropriateness must always be considered. The timing
+of interventions is important, because in the early phases
+carers may be particularly distressed and more likely to
+institutionalise the patient prematurely because of the
+sudden increase in stressors.150
+Providing education
+Although more knowledge alone does not necessarily
+reduce depression or burden in carers, it can be the fi rst
+step in a more comprehensive approach. Physicians
+should try to explain as much about the disease and its
+eff ects as possible, at a pace that allows carers to feel
+comfortable in asking questions. No more than three
+main pieces of information151 should be provided in one
+visit. Information about dementia symptoms and
+treatments, available services, crisis management, and
+carer self-care should be addressed. Education is crucial
+for the carer to understand that patients’ behaviour is not
+purposeful or meant to provoke.
+Educational material can be ordered from the National
+Institute on Aging website,143 the Alzheimer’s
+Association,152 and other carer organisations, or
+downloaded and printed from their websites (panel 2153–155).
+This material can be given to carers as a fi rst step in
+understanding dementia, the risk for carer distress, and
+approaches to self care.
+Making referrals
+Neurologists and their offi ce staff must become familiar
+with local and national resources that can provide carer
+interventions. Selected staff members could be
+educated about interventions and become familiar with
+available community resources. Staff can subsequently
+function as liaisons between neurology offi ces and
+distressed carers and community resources.156 In
+addition, local chapters of national organisations such
+as the Alzheimer’s Association in the USA or the
+Alzheimer’s Society in the UK will be aware of local
+providers of a wide range of support services for carers
+of patients with all types of dementias in most cities
+(panel 2).
+Types of referrals
+Case management
+Many carers and their families are unaware of available
+services, even if these services are covered by their
+health plan; and they may be unsure as to how to access
+them. Case managers can help choose possible respite
+services, such as adult day-care centres, nursing-home
+based temporary respite care, visiting nurse services, or
+educational services provided by the patient’s health
+plan. In some larger practices, a social worker or
+geriatric nurse practitioner can provide case
+management.
+Support groups
+Although support groups are not eff ective in the direct
+reduction of depression or burden, they seem to improve
+quality of life and other components of subjective
+wellbeing, which may protect the carer against stress
+proliferation and subsequent depression. Support groups
+could be off ered by local Alzheimer’s association groups,
+religious organisations, and senior centres. Referral to
+these groups or providing space after hours for such a
+group to meet in a doctor’s waiting room may help carers
+overcome social isolation and possibly reduce distress
+and increase wellbeing.131
+Psychoeducation
+Although psychoeducation is undisputedly eff ective, the
+average clinician will be hard-pressed to off er it in the
+context of medical care. However, similar to support
+groups, psychoeducational groups could be identifi ed at
+local Alzheimer’s association agencies, universities, or
+community mental health centres. Groups should
+include active skills training that involve role-playing so
+that carers can gain necessary behavioural management
+skills. Purely theoretical education does not aff ect carer
+burden or depression. Fewer than ten sessions should be
+adequate to increase ability and knowledge20 and may
+even be suffi cient to reduce distress45,157,158 and delay
+institutionalisation.23 If supervised activities for the
+patients are off ered at the same time as these groups,
+carers will be more likely to attend.
+Mental-health referrals
+Direct involvement of a social worker, psychologist,
+psychiatrist, or family therapist may be necessary in
+selected cases. In cases where the carer’s distress levels
+adversely aff ect the patient, the carer’s primary care
+physician should be contacted. This is particularly
+important if abuse or neglect is suspected159,160 and when
+other low base-rate but tragic outcomes might be
+prevented with even a modest amount of intervention.
+Collaborative and integrated care models
+Collaborative care can minimise behavioural symptoms
+among patients with dementia and reduce carer burden
+and distress.161–164 In a recent study,161 carers were provided
+case management, education on communication skills,
+coping skills, legal and fi nancial advice, exercise
+guidelines for patients with a guidebook and videotape,
+and a carer guide provided by the local chapter of the
+Alzheimer’s Association.161 This approach is comparable
+with a multicomponent 1 year intensive enhanced
+counselling and support treatment focused only on
+carers,122,165,166 which involve six sessions of family and
+individual counselling, ad hoc telephone support,
+psychoeducation, and a support group.
+Other examples of innovative integrated care include
+the integrated support model and memory club support
+groups. The integrated support model involves
+providing psychogeriatric day care and staff support for
+the carer and is more eff ective than respite care alone
+in alleviating patient symptoms and increasing carer
+self-effi cacy.113,167 Memory clubs provide information
+and coping resources to patients with early stage
+dementia and their carers.168 These new, low cost, and
+integrated approaches to intervention are promising,
+but have not yet been assessed for their long-range
+eff ectiveness.
+Pharmacological treatment
+A recent review and meta-analysis100 found that
+cholinesterase inhibitors given to patients have a small but
+statistically signifi cant benefi t to carers, with reductions in
+both burden and hours spent caring. However, we do not
+recommend relying solely on patient medication to address
+carer distress because eff ect sizes for pharmacotherapy are
+quite small and because many patients may not have
+access to cognitive enhancement drugs.169
+Maintenance phase
+Once an intervention strategy has been instituted, ongoing
+surveillance is needed. Eff ects persist for an average of
+7–11 months after an intervention,20,23 but whether they are
+maintained over longer timeframes is unknown.
+Physicians also need to be aware of the changing nature of
+care over time. Some carers adapt to the role and
+experience less distress as time progresses, but severe
+behaviour problems early in the experience and rapidly
+increasing dependency of patients will probably result in
+more severe distress for the carer later on.52,170 Furthermore,
+carers must typically learn how to provide palliative care,97
+cope with the transition to institutionalisation of the
+patient,171,172 and face bereavement.173 These issues tend to
+remain unaddressed. The clinician should encourage
+repeated contact with the community and national carer
+resources as new issues arise.
+Conclusions, policy, and advocacy issues
+The extension of the human life span means that more
+people will be entering the role of a carer over the next few
+decades, providing substantial public health, policy, and
+economic challenges. One tangible barrier that currently
+limits the provision of services for carers is the lack of
+reimbursement for the time and eff ort spent assessing
+carer distress and implementing interventions.174
+The extent to which available interventions can be
+implemented and paid for will depend on local healthcare
+fi nancing environments. Considerable crossnational
+diff erences exist:175 in the USA, for example, the
+reimbursement system for medical care for elderly
+people (Medicare) provides inadequate mental health
+coverage and most health insurance companies do not
+reimburse services for carers when the patient is not
+present. In many European countries, national health
+insurance covers mental-health interventions for
+individuals with an identifi ed need (ie, a diagnosis), but
+is not specifi cally geared toward carers. Because many
+carers would not consider their distress a mental
+disorder, this may eff ectively prevent them from
+accessing needed care. European health or care insurance
+systems, however, may cover in-home or off-site respite
+care, though the copays are prohibitive for some.176 In an
+ideal scenario, payment and insurance systems would be
+more mindful of the needs of carers and treat their
+physical and mental health as medically necessary
+aspects of comprehensive dementia care. In the
+meantime, evidence-based preventive interventions that
+prevent or reduce carer morbidity should be
+implemented. Health-care policy makers should consider
+addressing barriers that limit the implementation of a
+comprehensive care model; clinicians and families must
+advocate for such approaches to become reimbursable;
+and clinical researchers must develop more potent
+interventions.
+
+Panel 1: Outcomes with relevance to family care 1,19,24–26
+Psychosocial
+Carer burden
+Increased depression symptoms and clinical depression
+Increased anxiety symptoms
+Decreased self-effi cacy
+Decrements in subjective wellbeing and quality of life
+Positive experiences or uplifts of caregiving
+Physiological
+Increased stress hormones
+Dysregulated immune function
+Cardiovascular reactivity
+Impaired metabolic function
+Health behaviour
+Poor diet
+Reduced exercise
+Lack of sleep
+General health
+Poor self-reported health
+Increased symptom reports
+Increased medication use
+Increased service utilisation
+Mortality
+
+Panel 2: Resources for dementia carers 153–156
+Alzheimer’s associations
+Provide information about Alzheimer’s disease and dementia and those who care for
+them; information about local support services, care consultation, support groups;
+phone support lines: http://www.alz.org in USA and http://www.Alzheimers.org.uk/ in
+the UK
+Alzheimer’s Disease Education and Referral Center
+A National Institute on Aging service that provides information about Alzheimer’s disease
+as well as information resources for dementia carers; specialists are available to answer
+specifi c questions: http://www.Alzheimers.org
+Alzheimer Europe
+An organisation aimed at raising awareness of all forms of dementia and Alzheimer’s
+Disease as well as organising support to the suff erers of the disease and their caregivers:
+http://www.Alzheimer-europe.org/
+Administration on Aging Eldercare Locator
+The Eldercare Locator provides a way to identify state and local agencies on ageing
+and community organisations that provide services to older Americans.
+http://www.eldercare.gov/
+Family Caregiver Alliance
+Focuses on the needs of carers providing long-term care at home; provides caregiving
+information, fact sheets on diseases, and online support groups: http://www.caregiver.org/
+Along with National Alliance for Caregiving, has created a website aimed at guiding carers
+through the care giving process: http://www.familycaregiving101.org/
+National Alliance for Caregiving
+Provides information on giving care and does research and increases public awareness of
+caregiving issues: http://www.caregiving.org/
+Family Caregiver Alliance has created a website aimed at guiding carers through the care
+giving process: http://www.familycaregiving101.org/
+National Family Caregivers Association
+Provides links to information about diseases, education on caregiving, newletter
+support, links to public resources as well as public awareness and advocacy for carers:
+http://www.nfcacares.org/
+National Institute on Aging
+Provides links to information about Alzheimer’s disease, education on giving care, public
+resources, user-friendly publications, clinical trials, and latest news on Alzheimer’s
+research: http://www.nia.nih.gov/Alzheimers/Publications/caregivingbasics.htm
