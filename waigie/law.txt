@@ -1,0 +1,934 @@
+united states - Can a judge suggest to the jury that a witness is lying? - Law Stack Exchange | https://law.stackexchange.com/questions/57350/can-a-judge-suggest-to-the-jury-that-a-witness-is-lying
+<p>I was recently party to a preliminary hearing in a criminal case in which a 911 call was played. The content of the 911 call was very beneficial to the defendant. During the hearing, the judge said something to the effect of, "It would be a question for the jury whether the caller was 'being honest.'"</p>
+<p>In other words, the judge was suggesting that the caller to the 911 was being disengenuous and deliberately conveying a false impression -- something that I think would never occur to most people because the call seemed completely genuine. Also, the caller would have had no motive to faking their mental state. I got the idea that the judge was looking for some angle to discredit the 911 call out of interest to see the defendant convicted.</p>
+<p>In any case, from the judge's remark I got the idea that he might say something like that during the trial, or give the jury an instruction designed to make them think the 911 caller was putting on an elaborate act.</p>
+<p>Is a judge allowed to do this?</p>
+<p>It is the jury's job to evaluate the credibility of the witnesses, and it is the judge's job to inform them of that responsbility.</p>
+<p>It is not appropriate, however, for the judge to indicate to the jury what answer they should come to on those questions.</p>
+<p>In <a href="https://supreme.justia.com/cases/federal/us/289/466/" rel="nofollow noreferrer"><em>Quercia v. United States</em>, 289 U.S. 466 (1933)</a>, the defendant in a drug case took the stand to deny the charges. Before the jury went to deliberate, the judge made the following observation:</p>
+<blockquote>
+<p>I am going to tell you what I think of the defendant's testimony. You may have noticed, Mr. Foreman and gentlemen, that he wiped his hands during his testimony. It is rather a curious thing, but that is almost always an indication of lying. Why it should be so we don't know, but that is the fact. I think that every single word that man said, except when he agreed with the Government's testimony, was a lie.</p>
+</blockquote>
+<p>The jury convicted, but the U.S. Supreme Court reversed, holding that the instruction was an error. It said that the judge has the right, generally speaking, to comment on the evidence, but that right is not unlimited, because juries are likely to be swayed by the judge's assessments, even if he instructs them to make their own decisions:</p>
+<blockquote>
+<p>The influence of the trial judge on the jury is necessarily and properly of great weight and his lightest word or intimation is received with deference, and may prove controlling. This court has accordingly emphasized the duty of the trial judge to use great care that an expression of opinion upon the evidence should be so given as not to mislead, and especially that it should not be one-sided; that deductions and theories not warranted by the evidence should be studiously avoided.</p>
+</blockquote>
+<p>The comment you seem to be imagining is a closer call than this, but I think most judges would agree it would be inappropriate.</p>
+<p>At a preliminary hearing, though, where there is no jury, there is no real problem with the judge making that comment. If I were the defense attorney, I'd be glad he did, as it would help inform my decision about whether to pursue a jury trial or a bench trial.</p>
+<p>It is the judge's obligation to instruct the jury w.r.t. believing witnesses. <a href="https://govt.westlaw.com/wcrji/Document/Ief97fa32e10d11daade1ae871d9b2cbe?viewType=FullText&amp;originationContext=documenttoc&amp;transitionType=DocumentItem&amp;contextData=(sc.Default)&amp;bhcp=1" rel="noreferrer">This</a> is the introductory instruction for criminal trials in Washington, which on that topic says</p>
+<blockquote>
+<p>You are the sole judges of the credibility of each witness. You are
+also the sole judges of the value or weight to be given to the
+testimony of each witness. In assessing credibility, you must avoid
+bias, conscious or unconscious, including bias based on religion,
+ethnicity, race, sexual orientation, gender or disability. In
+considering a witness's testimony, you may consider these things: the
+opportunity of the witness to observe or know the things he or she
+testifies about; the ability of the witness to observe accurately; the
+quality of a witness's memory while testifying; the manner of the
+witness while testifying; any personal interest that the witness might
+have in the outcome or the issues; any bias or prejudice that the
+witness may have shown; the reasonableness of the witness's statements
+in the context of all of the other evidence; and any other factors
+that affect your evaluation or belief of a witness or your evaluation
+of his or her testimony.</p>
+</blockquote>
+<p>Some such statement will be made in any trial. There used to be a more specific instruction in witness credibility, but it was withdrawn. The general instruction also says</p>
+<blockquote>
+<p>Our state constitution prohibits a trial judge from making a comment
+on the evidence. It would be improper for me to express, by words or
+conduct, my personal opinion about the value of testimony or other
+evidence. I have not intentionally done this. If it appeared to you
+that I have indicated my personal opinion in any way, either during
+trial or in giving these instructions, you must disregard this
+entirely.</p>
+</blockquote>
+<p>Except for Texas and West Virgina, all states have such instructions. If a judge went off the rails and said "You are going to have to decide if you believe all that stuff that Smith said", that would be reversible error. The judge may not imply belief or disbelief, and may not make comments that tend to favor the defense vs. the prosecution.</p>
+<p>There is a concept of <a href="https://en.wikipedia.org/wiki/Implicature" rel="nofollow noreferrer">implicature</a> that says that meaning is conveyed not only by the meanings of the words, but by the circumstances that are likely to cause someone to utter those words. There is nothing in the literal meanings of the words that says that the witness is lying. Your belief that it conveys that seems to be based on implicature: the judge would not feel compelled to mention it unless they thought the witness is lying.</p>
+<p>However, that is not necessarily the case. Certainly if for one witness and one witness only, the judge were to say this without anything else giving them reason to, it could come across as implying that the witness is untrustworthy. On the other hand, if the judge were to say this each time a witness takes the stand, or say it at the very beginning of the trial and indicate that it applies to all witnesses, or say it when prompted by something more than just the witness testifying, such as a party asking the judge to make a decision that they believe relies on an assertion of fact, then this inference is less valid.</p>
+<p>In the US, in most if not all states, the Judge at a jury trial may not comment in such a way as to indicate a belief in the truth or falsity of testimony or the guilt or innocence of the accused.</p>
+<p>I believe the rule is different in the UK and perhaps elsewhere.</p>
+<p>However this was not in the presence of a jury.</p>
+<p><strong>Addition</strong>:
+This is because in a jury trial, the jury, not the Judge, is supposed to determine the facts. The drafters of US Procedure apparently thought that any comment by the judge would be highly influential with the jury. I think that this was a reaction against 17th C and 18th C British practice.</p>
+<p>In England and Wales at least it used to be the case that the Judge would routinely comment on the evidence, both during the course of the trial, and during the "Summing uP" which followed the  evidence but I think came before the arguments of the lawyers. I am not sure if theis is still the procedure.</p>
+<p>Of course he can, but in some jurisdictions he will have to choose his words carefully.</p>
+<p>Depending on tone or pace of voice, "it's for the jury to decide (this or that)" will often be heard by the jury to mean "but I don't believe it".</p>
+<p>Since the meaning depends on tone or pace of voice, who could ever prove anything against the judge?</p>
+
+united states - Is it a crime to take my own package from a delivery truck before it has reached my home? - Law Stack Exchange | https://law.stackexchange.com/questions/56782/is-it-a-crime-to-take-my-own-package-from-a-delivery-truck-before-it-has-reached
+<p>Not that I would ever do this, but I'm curious: if I were to go into a stopped delivery truck and remove from it an item that is addressed to me, would this be a crime? If so what crime would it be?</p>
+<p>It seems to me that I would not be stealing anything since it's my own property that I'm taking. I might even have a reason to suspect that if I did not take the package from the truck, then the driver would leave it sitting out in the open where it would likely be stolen (or that the driver himself might steal it), in which case I'd actually be preventing a crime by taking it from the truck directly.</p>
+<p>I don't think this would be burglary either, since that would tend to require that I was breaking into a restricted area <em>with the intent to commit a crime.</em> Especially if the delivery truck had no doors or I acted while they'd been left open, then I wouldn't even be "breaking and entering."</p>
+<p>I can't see this as being "trespass" if the truck was on a public street, unless trespass applies to the interior of vehicles. Even then, as long as I'd leave before anyone noticed me, I could just say I only went in to retrieve what's mine and prevent it from being damaged or stolen.</p>
+<p>So I'm guessing there must be some kind of arcane laws that only the US Postal Marshalls deal with. Yes, there are special guys called "US Postal Marshalls," who investigate mail-related crimes. So I'm curious what crime this would be?</p>
+<p>Note: I did review <a href="https://law.stackexchange.com/questions/31510/stealing-my-own-property-back">this post about "stealing your own property back"</a> but it does not really seem to apply here.</p>
+<h2>Yes, it's illegal</h2>
+<p>You are missing something terribly important:</p>
+<p><strong>The package might not be your property [yet]. In any way, it is not in your possession, while it is in the hands of the postal service!</strong></p>
+<p>The <em>contents</em> of the package started fully owned by the sender and were entrusted to the postal service to deliver it. This entrustment is (contractually) defined as the time it is handed to the postal service, but the postal service does not gain any ownership. They do however have insurance on the parcel (to some degree), as they are liable for the loss of it. In many cases, the transfer of ownership happens upon delivery (for example, in the UK), so that you can't even be sure you own the contents while the box is still on the truck. At least in the eye of many postal services I know, it is the basic presumption, that they hold the item as entrusted. So to be on the safe side, it's best to presume that the package only becomes <em>your</em> package the moment you sign for the receipt of the package or it is dropped into your mailbox or at your dedicated dropoff point (you can specify that with many postal carriers btw). Otherwise, your actions might interfere with the contract of the mail service [to bring it to your door] and might incur liability upon them as their insurance presumes the parcel was lost and it has to be replaced. By the way, it is customary that any message of <em>the parcel is damaged</em> go to the sender, not the receiver so that in the case of commercial mail they can send/fund a replacement, as the sender needs to ensure that a non-defect item is delivered under their own contract with the recipient.</p>
+<p>##Criminal lawsuits
+But, you want to know which specific law you'd be sued under <a href="https://www.law.cornell.edu/uscode/text/18/1708" rel="nofollow noreferrer">18 USC §1708 (2)</a> not only for taking the box, but also for taking the item from the box (emphasis mine)!</p>
+<blockquote>
+<p><strong>Whoever</strong> steals, <strong>takes</strong>, or abstracts, or by fraud or deception obtains, or attempts so to obtain, <strong>from</strong> or out of any mail, post office, or station thereof, letter box, mail receptacle, or <strong>any mail route</strong> or other authorized depository for mail matter, or from a letter or mail carrier, <strong>any</strong> letter, postal card, <strong>package</strong>, bag, or mail, or abstracts <strong>or removes from any such</strong> letter, <strong>package</strong>, bag, or mail, <strong>any article or thing contained therein</strong>, or secretes, embezzles, or destroys any such letter, postal card, package, bag, or mail, or any article or thing contained therein [...] Shall be fined under this title or imprisoned not more than five years, or both.</p>
+</blockquote>
+<p>The act of <em>taking</em> is relevant. It is irrelevant that you would receive the parcel later. You take it from the car on the delivery route. You also do trespass under whatever jurisdiction applies where the car is parked. For example, Criminal Trespass on Indian country is defined under <a href="https://www.law.cornell.edu/cfr/text/25/11.411" rel="nofollow noreferrer">25.CFR § 11.411 (b)</a>. The rules in other jurisdictions are very similar: you are not allowed to enter the car, as it is clearly off-limits to the general public. The car is btw. supposed to be closed to prevent such, so you have to actually break property of the postal service (which is an extra charge to just the normal B&amp;E).</p>
+<blockquote>
+<p>(b) A person commits an offense if, knowing that he or she is not licensed or privileged to do so, he or she enters or remains in any place as to which notice against trespass is given by: (3) Fencing or other enclosure manifestly designed to exclude intruders.</p>
+</blockquote>
+<p>A car door, even if not locked and left ajar, is an enclosure manifestly designed to exclude intruders, and the inside of a car is "any place". So, in the correct jurisdiction, this statute of criminal trespass does apply. And as pointed out above, taking the mail without the driver knowing is illegal. In some fashion, taking your own mail is also a strange case of <a href="https://www.law.cornell.edu/uscode/text/18/1702" rel="nofollow noreferrer">obstructing the correspondence</a>, which specifically calls out that the parcel has to be given by the mailman to the recipient (emphasis mine).</p>
+<blockquote>
+<p><strong>Whoever takes any</strong> letter, postal card, or <strong>package</strong> out of any post office or any authorized depository for mail matter, or from any letter or mail carrier, or <strong>which has been</strong> in any post office or authorized depository, or <strong>in the custody of any</strong> letter or <strong>mail carrier, before it has been delivered to the person to whom it was directed</strong>, with design to obstruct the correspondence, or to pry into the business or secrets of another, or opens, secretes, embezzles, or destroys the same, shall be fined under this title or imprisoned not more than five years, or both.</p>
+</blockquote>
+<p>If it is discovered by the driver while still on route, they will have to call the base and investigate the missing parcel, which takes time from the delivery, so might constitute <a href="https://www.law.cornell.edu/uscode/text/18/1701" rel="nofollow noreferrer">retarding the passage of mail</a>. If you break the lock to the car, you'd be charged as <a href="https://www.law.cornell.edu/uscode/text/18/1706" rel="nofollow noreferrer">Injury to mail bags</a>:</p>
+<blockquote>
+<p><strong>Whoever</strong> tears, cuts, or otherwise <strong>injures any</strong> mail bag, pouch, or other <strong>thing used or designed for use in the conveyance of the mail</strong>, or draws or breaks any staple or loosens any part of any lock, chain, or strap attached thereto, with intent to rob or steal any such mail, or to render the same insecure, shall be fined under this title or imprisoned not more than three years, or both.</p>
+</blockquote>
+<p>A Postal car, especially with a lock on the door, is such a device. And if you somehow had the key to the car, you'd break <a href="https://www.law.cornell.edu/uscode/text/18/1704" rel="nofollow noreferrer">18 USC § 1704</a> instead. Plus, your taking does possibly incur monetary damages to the postal carrier, so civil charges for that money and expenses in investigating would also accrue against the taking person.</p>
+<h2>civil lawsuits?</h2>
+<p>If you'd take the parcel, you make the postal driver accountable for the loss of the parcel and the worth of the package, as the internal system of the postal service does recognize that they did not deliver the parcel, did not scan it out at the home base, but they did scan it onto their route. So unless they can point the finger at you or a known thief, they might need to admit that they did not lock the car or committed some other misconduct that allowed someone to steal the parcel. This can lead to the financial loss of the delivery driver or them being fired. Should the mail carrier or the postal service discover it was you, the mail carrier can now sue you for the injury the lost parcel meant to them as you interfered with their work contract. The tort is <a href="https://www.law.cornell.edu/wex/tortious_interference" rel="nofollow noreferrer">Tortious interference</a>.</p>
+<p>Then, the mail service can sue you for intentionally interfering with the delivery contract the service had with the one ordering the delivery done: they were required to bring the parcel to the target and got paid for that. Only your action of taking did prevent this. Would you not have taken the parcel, they would have delivered, so you interfered with their contract.</p>
+<hr>
+<h2>Life Advice:</h2>
+<p>Approach the driver, get out a photo-ID (Drivers license, passport, ID-card etc) and ask them something akin to this "The website told me you might have a parcel for me. Can you look? I am this person, and this ID proves I live at the target address, as indicated on this ID." With those credentials in hand, the postal driver can check and give it to you but isn't technically obligated to. But as it often means they can save a few valuable minutes getting to your house, they might, especially if you know your mail carrier and are friendly.</p>
+<p>On the other hand, it's extremely unlikely for letter mail to be given this way, as searching for a parcel on a truck is much easier than looking for the letter mails in the bags.</p>
+<p>I don't believe the concept of theft applies here especially if the seller has been paid in compensation acceptable to the sender for the goods to be received by the buyer.  The point in question is you as the buyer and titler of the asset cannot enter into the vehicle of the postal truck as that is trespassing and is criminal especially if the vehicle is unattended.  Also you run the risk of 3rd party damages from a tort perspective to the extent you enter into the vehicle, throw another pakcage not belonging to you onto the ground to get to yours and cause damage to that package and possibly the car itself, all of which you are liable for.</p>
+
+privacy - Is it legal for Microsoft to install software without user approval? - Law Stack Exchange | https://law.stackexchange.com/questions/57272/is-it-legal-for-microsoft-to-install-software-without-user-approval
+<p>On several occasions, Microsoft had misled their users to forcefully install updates or unwanted programs (like Windows 10 on Windows 7 <a href="https://www.computerworld.com/article/2993851/microsoft-antagonizes-users-with-intrusive-new-windows-10-upgrade-tactics.html" rel="nofollow noreferrer">here</a>, <a href="https://www.computerworld.com/article/3030564/microsoft-uses-the-force-you-will-upgrade-to-windows-10.html" rel="nofollow noreferrer">here</a>, <a href="https://www.poweroncomputers.com/microsoft-forcing-windows-7-and-8-1-users-to-install-windows-10/" rel="nofollow noreferrer">here</a>, and <a href="https://wccftech.com/new-low-for-microsoft-windows-10-forced-upgrades-continue/" rel="nofollow noreferrer">here</a>), it also has forcefully installed the new <a href="https://www.theverge.com/21310611/microsoft-edge-browser-forced-update-chromium-editorial" rel="nofollow noreferrer">Edge chromium web browser on W10 computers</a>, and now is forcefully installing <a href="https://www.theverge.com/2020/10/17/21520315/microsoft-install-office-pwa-web-app-without-permission-update-word-powerpoint-excel" rel="nofollow noreferrer">office webapps</a>.</p>
+<p>Is this legal?</p>
+<h2>Unauthorized access to a computer is a crime in most parts of the world</h2>
+<p><strong>However, Microsoft's access is not unauthorized</strong> (my emphasis):</p>
+<blockquote>
+<ol start="6">
+<li>Updates. The softwareperiodically [sic] checks for system and app updates, and downloads and installs them for you. You may obtain updates only from Microsoft or authorized sources, and Microsoft may need to update your system to provide you with those updates. <strong>By accepting this agreement, you agree to receive these types of automatic updates without any additional notice.</strong></li>
+</ol>
+</blockquote>
+<p>You <a href="https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm" rel="noreferrer">agreed</a> to this when you installed Windows 10.</p>
+<p>As a law site - we don't consider whether things that are legal are ethical.</p>
+<p>Dark Patterns are what the term is for those wilfully-misleading user interfaces like e.g. (Microsoft?) Google and Facebook's Privacy controls, Microsoft's update system assuming consent so casually, etc.
+No-one reads the EULA because it is too long and complex.  Informed consent is a concept in law as well as implied contractual terms and opt-in opt-out are all concepts here.
+This looks suspect, for example, because it implies terms that are not explicitly stated, and can be changed at any time, plus requires an external website to be referred-to, which may not be available (e.g. if doing the safer method of offline installation before beefing-up security THEN installing Windows Updates et al, which is IMO the recommended method to have a known-clean system that physically-couldn't have been compromised over the internet).</p>
+<blockquote>
+<p>Privacy; Consent to Use of Data. Your privacy is important to us. Some
+of the software features send or receive information when using those
+features. <strong><em>Many</em> of</strong> these features can be switched off in the user
+interface, <strong>or you can choose not to use them</strong>. By accepting this
+agreement and using the software you agree that Microsoft may collect,
+use, and disclose the information as described in the Microsoft
+Privacy Statement (<strong><a href="https://aka.ms/privacy" rel="nofollow noreferrer">aka.ms/privacy</a></strong>), and as <strong><em>may</em> be described in the
+user interface</strong> associated with the software features.</p>
+</blockquote>
+<p>Explain how that can be informed consent, or actually lawful, when it is so hard to inform oneself as to the entirety of the terms of the contract? I am not a lawyer nor is this legal advice, but for example, in my jurisdiction (England and Wales), you cannot 'sign a blank cheque' to agree to unknown contract terms.
+They must be explicit or they are not enforceable.</p>
+<p>Whilst the GDPR is opt-in, not opt-out, and requires consent to be informed.
+Naturally, Microsoft's business model, for decades now, has relied-upon user ignorance and blind compliance, thus is inherently a form of abstract Dark Pattern.</p>
+<p>By definition, any legal matter is that which is bound by, permitted and written in law; since Microsoft's user has allowed "Microsoft to install software without" (additional) "user approval" (refer to Microsoft's software end user licence agreement), the act is legal.</p>
+<p>This is akin to someone <em>not</em> trespassing on property when invited onto the property or agreed by an 'occupier' of the property to be on the property (which of course, expires when being asked to leave the property, and therefore trespassing thereafter).</p>
+<p>In case of Microsoft's software, if you do not agree to the terms of installation, you are to uninstall the software.</p>
+
+constitutional law - Does the sixth amendment entitle me to know who called the county on me for a code violation? - Law Stack Exchange | https://law.stackexchange.com/questions/57214/does-the-sixth-amendment-entitle-me-to-know-who-called-the-county-on-me-for-a-co
+<p>Is my accuser the person who petitioned the county to investigate a code violation?</p>
+<p>The Sixth Amendment states that "In all criminal prosecutions, the accused shall enjoy... the right to be confronted with the witnesses against him". You are not being criminally prosecuted, so the Sixth Amendment simply does not apply.</p>
+<p><a href="https://en.wikipedia.org/wiki/Confrontation_Clause" rel="noreferrer">https://en.wikipedia.org/wiki/Confrontation_Clause</a></p>
+<p>It depends on whether you were cited for the violation and the nature of the violation.</p>
+<p>Contrary to the other answers here, building-code violations in Maryland can, in fact, be criminal offenses, civil offenses, or both. <em>See, e.g.</em>, <a href="https://library.municode.com/md/baltimore_county/codes/code_of_ordinances?nodeId=ART35BUHO_TIT2BU_SUBTITLE_3BUPE_S35-2-304PEACWIPE" rel="noreferrer">Baltimore Building Code § 35-2-304(b)</a>:</p>
+<blockquote>
+<p>(1) A person may not erect, construct, repair, alter, remodel, remove, or demolish a building or structure or part of a building or structure in the county without obtaining a permit.</p>
+<p>(2) A person who violates this section is guilty of a misdemeanor.</p>
+<p>(3) A person who violates this section is also subject to a civil penalty of $1,000.</p>
+</blockquote>
+<p>If you received a criminal citation, the Sixth Amendment right to confront your accuser would likely still not help. It sounds like a neighbor's complaint triggered an investigation by a county employee, who then cited you for a violation. The investigator would therefore be your accuser, not the caller.</p>
+<p>However, the Sixth Amendment also includes the right to "compulsory process," which would probably allow you to access records showing who the caller was. Your state's rules of criminal procedure would probably also allow you to obtain this information through Rule 16 discovery.</p>
+<p>If the complaint was only civil, or if you were only issued a warning, you may have access the caller's identity through the <a href="https://www.rcfp.org/open-government-guide/maryland/" rel="noreferrer">Maryland Public Information Act</a>. Generally speaking, it entitles a citizen of the state to inspect any documents made or received by the government.</p>
+<p>In the only case I know of dealing with phone records, the courts allowed the Washington Post to access phone records from the governor. While the Court restricted access to records of personal phone calls made by the governor's family at the executive residence, it generally allowed access to records that would allow the newspaper to see who had called and been called by various other officials. <a href="https://casetext.com/case/office-of-the-governor-v-washington-post-company" rel="noreferrer"><em>Office of Governor v. Washington Post Co.</em>, 360 Md. 520 (2000)</a>.</p>
+<p>Applying that logic to your situation, I'd expect that records of who called the building department about a code violation would be available to you. In principle, you'd likely just need to fill out a form to request those records. In Baltimore County, that form is available <a href="http://resources.baltimorecountymd.gov/Documents/Permits/permitspiarequestform.pdf" rel="noreferrer">here</a>.</p>
+<blockquote>
+<p>Is my accuser the person who petitioned the county to investigate a code violation?</p>
+</blockquote>
+<p>No. The Sixth Amendment provides the right to know the name of anyone who is asserting to have personal knowledge of your alleged offense, if the government relies on that assertion in evaluating your guilt. If the government independently verifies the facts involved, and does not rely on the original assertion, the Sixth Amendment doesn't apply to the original complaintant. If they are relying on one or more factual assertions in the petition, that's a different matter.</p>
+<p>For instance, if there's a ordinance prohibiting fences more than six feet high, and someone files a complaint saying that your fence is seven feet high, and the county sends a county employee out to measure your fence, and the employee finds that the fence is seven feet high, and the county relies on that determination to charge you with an offense, then that county employee is your accuser, not the person who filed the complaint.</p>
+<p>The Sixth Amendment does not help you, but your state's Public Records law might. <a href="https://apps.leg.wa.gov/rcw/default.aspx?cite=42.56&amp;full=true" rel="noreferrer">This</a> is the law for Washington state. Under that state law, government records are public, with certain exceptions. So the first question is whether there is a government record of the alleged code violation. An actual letter (as opposed to an anonymous phone call) would be a disclosable record, unless there is an exemption. One exception is the "invasion of privacy" exemption, in case disclosure would be highly offensive to a reasonable person, and not of legitimate concern to the public. Knowing that Smith filed a complain is not offensive, and knowing that Smith has a habit of filing complaints could easily be the topic of a news investigation. Records that would violate "vital governmental interests" can also be withheld, but secrecy of the name of a complainer is not such an interest. RCW 42.56.230 covers certain kinds of "personal information", primarily school / FERPA-related and health / HIPAA-related information.
+Also excluded are certain kinds of taxpayer assessment information that could put the subject at a competitive business disadvantage; financial records (e.g. credit card numbers), proof of identify such as birth certificate, SS number, information volunteered in making a 911 call. There are also exceptions in RCW 42.56.240 for information provided to law enforcement if nondisclosure is essential to effective law enforcement or protection of a witness, certain records about sex offenses, GPS data on a law enforcement officer (etc...) – none of which covers "person who files a complaint against a person for code violations", and all are about criminal law enforcement as opposed to code infractions. There are very many enumerated exceptions, and none of them can, from what I can determine, shield a person who files a complaint from having their name revealed, if they identified themselves. Of course, there are 50 states, so your state may be different.</p>
+<p>The <strong>14th Amendment</strong> is what you are looking for, not the 6th. A code violation is not a crime. The 6th amendment is specific to criminal cases. A test to determine if 6th amendment rights are thought to apply, would be if an attorney provided to represent a person if they couldn't afford one themselves.</p>
+<blockquote>
+<p>"In all <em>criminal prosecutions</em>, the accused shall enjoy the right to a speedy and public trial....and to have the assistance of counsel for his defense."</p>
+</blockquote>
+<p>The 5th Amendment and the 14th amendment mention due process and the 14th amendment the 14th amendment section 1 reads:</p>
+<blockquote>
+<p>"All persons born or naturalized in the United States, and subject to
+the jurisdiction thereof, are citizens of the United States and of the
+state wherein they reside. No state shall make or enforce any law
+which shall abridge the privileges or immunities of citizens of the
+United States; nor shall any state <em><strong>deprive</strong></em> any person of life,
+liberty, or property, without due process of law; nor deny to any
+person within its jurisdiction the equal protection of the laws."</p>
+</blockquote>
+<p>However, being issued a notice of a code violation isn't covered in the constitution like criminal proceedings are so its unclear what process is due and courts have struggled with these questions and answers are typically related to due process <em>of law</em>, as in the judicial system.</p>
+<p>Code violations are not civil or criminal matters, they are administrative in nature and issued by entities like a building department or planning department. Fines, liens, and other tools that could be used to prevent non-compliance wouldn't be subject to the review of a real court with a real judge unless you challenge the decisions made by the applicable entity. And review of a typical code violation is not the same thing as the far less common situation where a basic code violation turns into something of a civil or criminal nature.</p>
+<p>An <a href="http://communitylaw.org/wp-content/uploads/2015/10/1065030A.pdf" rel="nofollow noreferrer">actual notice of a code violation in the City of Baltimore</a> states that a code violation is an administrative remedy <em>unless and until</em> the person cited fails to comply with the orders contained in the notice:</p>
+<blockquote>
+<p>"Failure to correct each violation in the time and manner prescribed
+is a criminal misdemeanor subject to a fine of up to $500 per day. A
+violation may also be enforced by Court Order and civil penalty. In
+addition to initiating prosecution or other legal enforcement
+proceedings the Commissioner or an authorized representative of the
+Commissioner is authorized to complete all required work without
+further notice. The expense of the work will be both a personal debt
+and a lien against the property."</p>
+</blockquote>
+<p>It further notes on the same notice document that the process to challenge an alleged violation is through administrative review of the violation  and cites the <a href="https://ca.baltimorecity.gov/codes/Art%2000%20-%20Bldg,%20Fire.pdf" rel="nofollow noreferrer">City of Baltimore Building, Fire, and Related Codes</a>.</p>
+<p>BFRCRC section 128 "Administrative and Judicial Review" reads:</p>
+<blockquote>
+<p>"If any person is aggrieved by any notice, order, permit, penalty
+assessment, or other act of the Building Official, the person may
+apply in writing to the Building Official for a review."</p>
+</blockquote>
+<p>It calls this an "administrative" process [BFRCRC 128.5.6.3]:</p>
+<blockquote>
+<p>"A decision issued under this § 128 is a final administrative
+decision."</p>
+</blockquote>
+<p>Section 128.6 "Judicial review" requires the administrative hearing process be had prior to any legal right to judicial review.</p>
+<p>Section 128.6 Judicial review reads:</p>
+<blockquote>
+<p>"A party aggrieved by the decision may seek judicial review of that
+decision by petition to the Circuit Court for Baltimore City in
+accordance with the Maryland Rules of Procedure. A party to the
+judicial review may appeal the court’s final judgment to the Court of
+Special Appeals in accordance with the Maryland Rules of Procedure."</p>
+</blockquote>
+<p>And even though there are laws enabling building departments to issue citations and fines, these types of actions are still right below any sort of judicial involvement. However, the next step is almost always into court as civil courts are the official review process for administrative decisions of all kinds like those of building authorities, licensing boards, boards of directors, the DMV, or other entities that have the power to make important decisions like revoking a doctor's medical license. This is why a county courthouse is called a "superior" court even though decisions in superior courts are subordinate to those of state appeals courts, state supreme courts, and all federal courts.</p>
+<p>Your right to know who reported you isn't really related to any of those and whoever has that information is unlikely to turn it over to you if they haven't already. Even if you filed a lawsuit related to this, the judge still would be unlikely to order that information be made known if the defendant doesn't hand it over willingly during informal discovery.</p>
+<p>Oddly, one is not always guaranteed due process, and in many circumstances a lack of process is said not to prejudice a party enough to qualify them for relief. Appeals courts often will conclude that a person's due process rights weren't violated because due process is supposedly only required at a final hearing and not before. For example, in a case for replevin/claim and delivery, a judge can order the sheriff to go and take a defendant's personal property if another person claims it to be their own prior to the defendant being allowed to be heard in the case, submit any opposition, or even having knowledge that a case has been filed and that the title to the items is being disputed. Of course, this is prior to a final hearing to decide title to the property.</p>
+
+united states - Could the federal government ban people from drinking coffee? - Law Stack Exchange | https://law.stackexchange.com/questions/57132/could-the-federal-government-ban-people-from-drinking-coffee
+<p>Which amendment does this statement violate?</p>
+<p>The federal government refuses to allow anyone to drink coffee.</p>
+<p>None. The federal government is allowed to prohibit coffee drinking under its power to regulate interstate commerce. Prohibition would not have required a constitutional amendment under modern constitutional jurisprudence either. By analogy, this would be no different (constitutionally) than a law prohibiting putting lithium in sodas (something that used to be done in <em>7 Up</em>) or putting cocaine in sodas (something that used to be done in <em>Coca-Cola</em>).</p>
+<p>Conceivably, the law might have to allow a religious exemption in certain circumstances under the 1st Amendment's free exercise clause, but while many faiths prohibit drinking coffee (most notably, offshoots of The Church of Jesus Christ of Latter-day Saints), none of which I am aware require it as a matter of religious doctrine sincerely espoused.</p>
+<p>This would almost certainly be within Congress's powers under the <a href="https://www.law.cornell.edu/wex/commerce_clause" rel="noreferrer">Commerce Clause</a>, which has been interpreted quite broadly to encompass virtually anything someone could imagine <em>possibly</em> affecting interstate commerce, even indirectly.</p>
+<p>There are two particularly on-point Supreme Court cases: <a href="https://en.wikipedia.org/wiki/Gonzales_v._Raich" rel="noreferrer"><em>Gonzales v. Raich</em></a> in 2005 and <a href="https://en.wikipedia.org/wiki/Wickard_v._Filburn" rel="noreferrer"><em>Wickard v. Filburn</em></a> in 1942.  <em>Gonzales v. Raich</em> held that Congress could prohibit the use of cannabis within a state (even if it never crossed state lines), because it could affect interstate demand for cannabis.  It was based in part on <em>Wickard v. Filburn</em>, which held that Congress could prohibit a farmer from growing wheat in excess of specified quotas (even if he never sold that wheat and only used it to feed his own animals), because he would otherwise have to purchase feed, which affects the interstate market for that.</p>
+<p>To quote the court in <em>Gonzales</em>:</p>
+<blockquote>
+<p>In both cases, the regulation is squarely within Congress’ commerce power because production of the commodity meant for home consumption, be it wheat or marijuana, has a substantial effect on supply and demand in the national market for that commodity.</p>
+</blockquote>
+<p>The only remaining obstacle would be that the government would have to articulate some rational basis for this law.  The <a href="https://www.law.cornell.edu/wex/rational_basis_test" rel="noreferrer">rational basis test</a> is the test for the constitutionality of a law in which no fundamental rights or equal-protection violations are at issue.  Since banning coffee consumption (probably) doesn't implicate any fundamental rights or discriminate against any protected class of people, it would apply here. It requires 1) that the law advance a legitimate state interest, and 2) that there be a rational connection between that goal and the means by which the law attempts to advance it.</p>
+<p>That's not a difficult bar to meet: one possible reason would be that it contains caffeine, an addictive drug that has negative health implications when consumed in excess.  Protecting the health of the public would be a legitimate state interest, and restricting the consumption of a harmful substance would advance it.</p>
+<p>If Congress bans coffee, the power has to be from some sources found in the constitution. The only conceivable source is the commerce clause. Thus, like other answers, I would focus on whether Congress would exceed its authority under the commerce clause.</p>
+<p>Before I get into the details, I would like to clarify a common misconception, especially in the context of the commerce clause: If the US Supreme Court is not willing to declare a law unconstitutional, it is constitutional. This is not true. In other words, Ryan M has given an expansive answer on</p>
+<blockquote>
+<p>Would the Supreme Court declare the law unconstitutional?</p>
+</blockquote>
+<p>but not</p>
+<blockquote>
+<p>Is the law unconstitutional?</p>
+</blockquote>
+<p>Given that the Supreme Court only loosely examines Congress' commerce clause power (see below and Ryan M's answer), we must keep in mind that the answer to the first question can depart significantly from the second.</p>
+<h3>Background: Supreme Court's Spectrum of Interfering Other Governmental Branches (e.g., Level of Scrutiny)</h3>
+<p>In a democratic society with multiple government branches interacting with each other, when analyzing constitutional questions, the Supreme Court must consider whether it has the proper role to review and how much it may properly review, via interpreting its role defined in the Constitution. Interactions between governmental branches are about "ambitions counteracting ambitions," not "Supreme Court counteracting ambitions." If the Supreme Court police every single constitutional question in the utmost detail and interpret the constitution as expansive as it can, the government is, at least, close to a dictatorship and all other branches are the unelected Court's subordinates.</p>
+<p>The Supreme Court has employed a spectrum of how much it would interfere with other branches of the government's actions. This includes the so-called "level of scrutiny." At one extreme end, the Supreme Court employs <a href="https://en.wikipedia.org/wiki/Strict_scrutiny" rel="nofollow noreferrer">strict scrutiny</a>: Federal courts should take close scrutiny at this kind of disputes and actively police whether the government has violated the constitution. Examples of such government actions include opinion-based speech regulation, laws that discriminate based on race, etc. These commonly involve issues that are susceptible to "tyranny of majority," such as fundamental right invasion and discrimination against minority. Federal Courts, less influenced by votes, are in a position to guard these interest.</p>
+<p>At the other extreme end, the Supreme Court would deem an issue as not <a href="https://en.wikipedia.org/wiki/Justiciability" rel="nofollow noreferrer">justiciable</a> — in other words, the Supreme Court deems the issue is inappropriate for federal courts to issue opinions, even if there is text on point written in the Constitution. For example, the Supreme Court has never answered the question whether the president can send troops to foreign land without a congressional war declaration, while Article I, Section 8 grants the Congress war declaration power. In fact, this question likely fits into the Court's <a href="https://en.wikipedia.org/wiki/Political_question#Doctrine" rel="nofollow noreferrer">political question doctrine</a>. Does this mean this is constitutional? Instead, Congress passed the <a href="https://en.wikipedia.org/wiki/War_Powers_Resolution" rel="nofollow noreferrer">War Powers Act</a>, which, in some sense, can be seen as Congress deeming some prior president's (especially Nixon's) war acts unconstitutional.</p>
+<h3>Supreme Court on the Commerce Clause</h3>
+<p>Regarding the commerce clause, the Supreme Court currently employs <a href="https://en.wikipedia.org/wiki/Rational_basis_review" rel="nofollow noreferrer">rational basis test</a>, with some qualifications (noticeably United States v. Lopez, 514 U.S. 549 (1995) and United States v. Morrison, 529 U.S. 598 (2000)). This means that Supreme Court puts commerce clause-related questions closer to the nonjusticiable side of the spectrum. Ryan M's answer is the one that applies rational basis test to the OP's question. As a result, the Supreme Court would unlikely declare this ban unconstitutional. But keep in mind that the Court has never said Congress has unlimited power under the commerce clause.</p>
+<h3>Who Should Police Congressional Exercise of the Commerce Clause?</h3>
+<p>Chief Justice Marshall once wrote:</p>
+<blockquote>
+<p>If, as has always been understood, the sovereignty of Congress, though limited to specified objects, is plenary as to those objects, the power over commerce with foreign nations, and among the several States, is vested in Congress as absolutely as it would be in a single government, having in its Constitution the same restrictions on the exercise of the power as are found in the Constitution of the United States. The wisdom and the discretion of Congress, their identity with the people, and the influence which their constituents possess at elections are, in this, as in many other instances, as that, for example, of declaring war, the sole restraints on which they have relied, to secure them from its abuse. They are the restraints on which the people must often rely solely, in all representative governments.</p>
+</blockquote>
+<p>Gibbons v. Ogden, 22 U.S. 1 (1824). Basically, <em>Ogden</em>'s view is that the restraint on the Congress' exercise of the commerce clause is not from federal judiciary; it is from the political process. Wickard v. Filburn, 317 U.S. 111 (1942) explained:</p>
+<blockquote>
+<p>[Chief Justice Marshall] made emphatic the embracing and penetrating nature of this power by warning that effective restraints on its exercise must proceed from political, rather than from judicial, processes.</p>
+</blockquote>
+<p>The Supreme Court's current view largely follows the <em>Gibbons</em> line. See e.g., Atlanta Motel v. United States, 379 U.S. 241 (1964) ("The principles which we apply today are those first formulated by Chief Justice Marshall in <em>Gibbons</em>).</p>
+<p>According to these opinions, it is likely difficult to find the answer to the OP's question in Court's decisions. <strong>The answer likely lies in the political process</strong>.</p>
+<p>This sort of makes sense, because commerce regulations are complicated and federal courts are poorly equipped to police these regulations. Unlike fundamental right questions, tyranny of majority also rarely finds home in these regulations. (Of course, people have different opinions regarding whether the Supreme Court is too hands-off or not. But as it currently stands, political process should lead to the answer.)</p>
+<h3>How Does the Political Process Restrain Congress from Abusing Its Commerce Power?</h3>
+<p>Justice Breyer explained:</p>
+<blockquote>
+<p>... [W]ithin the bounds of the rational, Congress, not the courts, must remain primarily responsible for striking the appropriate state/federal balance. Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528, 552 (1985); ante, at 19-24 ( Souter, J., dissenting); Kimel v. Florida Bd. of Regents, 528 U.S. 94-94, (2000) ( Stevens, J., dissenting) (Framers designed important structural safeguards to ensure that, when Congress legislates, "the normal operation of the legislative process itself would adequately defend state interests from undue infringement"); see also Kramer, Putting the Politics Back into the Political Safeguards of Federalism, 100 Colum. L. Rev. 215 (2000) (focusing on role of political process and political parties in protecting state interests). Congress is institutionally motivated to do so. Its Members represent state and local district interests. They consider the views of state and local officials when they legislate, and they have even developed formal procedures to ensure that such consideration takes place. See, e.g., Unfunded Mandates Reform Act of 1995, Pub.L. 104-4, 109 Stat. 48 (codified in scattered sections of 2 U.S.C.). Moreover, Congress often can better reflect state concerns for autonomy in the details of sophisticated statutory schemes than can the Judiciary, which cannot easily gather the relevant facts and which must apply more general legal rules and categories. See, e.g., 42 U.S.C. § 7543 (b) (Clean Air Act); 33 U.S.C. § 1251 et seq. (Clean Water Act); see also New York v. United States, 505 U.S. 144, 167-168 (1992) (collecting other examples of "cooperative federalism"). Not surprisingly, the bulk of American law is still state law, and overwhelmingly so.</p>
+</blockquote>
+<p>U.S. v. Morrison, 529 U.S. 598 (2000) (Breyer, J., dissenting). <em>Garcia</em>, cited in the passage above, lists some additional examples on how the states would restrain Congress. For example, States have the power to regulate the perhaps most two important aspects of federal election: Districting and voter qualifications; large amount of federal revenue flows to states, meaning that states have effective control over some federal policy execution (keep in mind that an increase in federal taxation generally negatively impacts votes).</p>
+<h3>So, Is It Constitutional?</h3>
+<p>According to the above analysis and Supreme Court's previous opinions, the question is more about political process and less about Court opinion analysis. Here, I'm attempting to make a guess on whether the political process would likely restrain Congress from enacting such a law.</p>
+<p>The OP provides too little context, and it's difficult to know whether a ban on coffee is truly about "interstate commerce". If coffee has turned out to be something similar to cocaine, then I think it is constitutional. Coffee has an established national market, and to eliminate coffee from the national market, it is necessary to prohibit on the consumption side. Individual states are unlikely able to effectively ban coffee, they would also unlikely oppose this coffee ban. In fact, they may also likely cooperate with the ban: receive federal fund and execute the ban. Given these factors, voters are unlikely voting these Congressmen out of their seats.</p>
+<p>Now let's take a different assumption of the facts. Unlike other states, the state of Coffee Fan is plagued with the issue of coffee overdrinking -- 10% of its population drink over one ton of coffee per day. One option is for the state to ban coffee completely because there's no other practical way to administrate the law (for the sake of argument). The point of the law is not about interstate commerce; it is about the market within the state of Coffee Fan alone. In the OP's hypothetical, Congress, instead of the state, plan on enacting such a law. The political process would likely restrain Congress from enacting such a law, because the overwhelming majority of the population in other states still enjoy coffee in benign doses. These state governments also would unlikely cooperate. The 90% of the population in the state of Coffee Fan would also likely oppose, because it becomes more difficult for them to adjust the policy in the future in response to the changes of their local problems.</p>
+
+united states - Is it illegal for a US voter to disclose their ballot choices? - Law Stack Exchange | https://law.stackexchange.com/questions/57030/is-it-illegal-for-a-us-voter-to-disclose-their-ballot-choices
+<p>This is a follow-on question from <a href="https://politics.stackexchange.com/questions/57835/ballot-secrecy-is-it-a-voters-privilege-or-a-voters-obligation">Politics SE</a>, wherein several participants claimed that it was illegal for a voter to divulge <em>their own</em> ballot choices. As this is purely a question of law, rather than politics, this issue is more appropriate for Law SE.</p>
+<p><strong>So, are there any US States that have made it illegal for a voter to disclose their ballot (voting) choices?</strong></p>
+<p>Short answer: It depends on the state and exactly how you do so.  Stating how you voted, by itself, is fine; however, taking a photo of your ballot instead of just saying how you voted is illegal in some states, especially if the photo was taken within a polling place.  Laws banning these so-called "ballot selfies" may be unconstitutional, and have been successfully challenged under the first amendment in some cases.</p>
+<hr>
+<p>There is not a general ban on simply <em>saying</em> who you voted for.  This is an extremely common practice, and it is the basis for "exit polling," where voters leaving a polling place are asked whom they voted for in order to collect voting statistics to predict the winner of the election.  This type of polling has been <a href="https://www.mtsu.edu/first-amendment/article/1108/exit-polling" rel="noreferrer">upheld by courts</a>, and it sounds like laws banning it were primarily concerned with voter intimidation rather than vote-buying.</p>
+<p>As of 2016, <a href="https://www.cbsnews.com/news/where-can-you-take-a-selfie-with-your-ballot/" rel="noreferrer">18 states banned sharing any photograph of a ballot, while an additional 6 ban photography in polling places</a>.  The rationale for such laws to prevent vote-buying, because if you can't take a photo of your ballot, you can't prove whom you voted for (whereas without the photo, you could simply vote however you like, then lie).  However, at least one such law has been <a href="http://www.nhd.uscourts.gov/sites/default/files/Opinions/15/15NH154P.pdf" rel="noreferrer">challenged in federal court and invalidated as a violation of the first amendment</a> (in Rideout v. Gardner) "because it is a content-based restriction on speech that cannot survive strict scrutiny."  If such first-amendment challenges continue to be upheld, it is possible that this practice will be legal throughout the United States.</p>
+<p>I don't know of any law that prohibits the disclosure of your choices on a ballot. It would certainly be invalidated on First Amendment grounds.</p>
+<p>There are laws outlawing the disclosure of <em>pictures</em> of your ballot, but there is little remaining debate that these laws violate the First Amendment. New Hampshire's ballot-selfie law was invalidated in 2015, and the First Circuit Court of Appeals went a step further in 2016, making it illegal to enforce such a law anywhere else in the circuit:</p>
+<blockquote>
+<p>Even accepting the possibility that ballot selfies will make vote buying and voter coercion easier by providing proof of how the voter actually voted, the statute still fails for lack of narrow tailoring. “[B]y demanding a close fit between ends and means, the tailoring requirement [under intermediate scrutiny] prevents the government from too readily ‘sacrific[ing] speech for efficiency.’ ” ...</p>
+<p>New Hampshire has “too readily forgone options that could serve its interests just as well, without substantially burdening” legitimate political speech. At least two different reasons show that New Hampshire has not attempted to tailor its solution to the potential problem it perceives. First, the prohibition on ballot selfies reaches and curtails the speech rights of all voters, not just those motivated to cast a particular vote for illegal reasons. ... Second, the State has not demonstrated that other state and federal laws prohibiting vote corruption are not already adequate to the justifications it has identified.  ... New Hampshire suggests that it has no criminal statute preventing a voter from selling votes. That can be easily remedied without the far reach of this statute. The State may outlaw coercion or the buying or selling of votes without the need for this prohibition.</p>
+</blockquote>
+<p><a href="https://caselaw.findlaw.com/us-1st-circuit/1748276.html" rel="noreferrer"><em>Rideout v. Gardner</em>, 838 F.3d 65, 74 (1st Cir. 2016)</a></p>
+<p><a href="https://www.michigan.gov/sos/0,4670,7-127--496902--,00.html" rel="noreferrer">Michigan</a> has agreed to stop enforcing its ballot selfie law, and <a href="https://casetext.com/case/ind-civil-liberties-union-found-inc-v-ind-secy-of-state" rel="noreferrer">Indiana</a> has been permanently enjoined from enforcing its law. <a href="https://casetext.com/case/silberberg-v-bd-of-elections-of-ny-2" rel="noreferrer">New York</a> did survive a challenge to its law, but that one is generally considered an outlier.</p>
+<p>Since the mod welcomes answers from other jurisdictions <strong>a short note on the situation in Germany.</strong></p>
+<p>In 2017, the head of the federal election commission ("Bundeswahlleiter") filed charges against several persons who took selfies of their mail-in ballots in their homes and published them.</p>
+<p>He referred to  §107c of the penal code that forbids to violate regulations serving the secrecy of the election by disclosing how <em>somebody</em> voted. He argued that "somebody" includes oneself, an opinion not shared by the prosecutor who consequently dropped the charges. A link to that story, in German, is <a href="https://www.heise.de/tp/features/Wahlzettel-Selfies-doch-nicht-strafbar-3998833.html" rel="noreferrer">here</a>.</p>
+<p>Taking pictures <em>in the voting booth</em> is unmistakably forbidden though.</p>
+<p>In the UK, it's a crime to take any photographs or images inside the polling station.  Photographing a ballot paper is a big no-no.  Although prosecutions to my knowledge are extremely rare and you would realistically probably just get a telling-off from the police. Unless you did something really egregious like walk around a polling station photographing all the ballot papers in sight and posting them on Twitter or something as crazy as that.</p>
+<p>Of course, you're allowed to tell people how you voted.</p>
+
+language - What effect does bad English have on warnings / disclaimers? - Law Stack Exchange | https://law.stackexchange.com/questions/57320/what-effect-does-bad-english-have-on-warnings-disclaimers
+<p>I've come across more than one case of ill-phrased 'legalese' and often wondered where the line is with respect to enforcibalilty etc. For example, a McDonalds promotion which disclaimed: "Offer ends October 30 or while supplies last". Does nonsense invalidate it, or is it a case of clear intent conveyed in muddled language?</p>
+<p>I was reminded of this by a sign I saw on a recent trip:<a href="https://i.stack.imgur.com/w4X6k.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/w4X6k.jpg" alt="&quot;NO TRESSPASSING WITHOUT WRITTEN PERMISSION FROM PAULDING COUNTY COMISSIONERS&quot;"></a></p>
+<p>Yes, we know what they mean, but really, is this enforceable?</p>
+<p>Law does not have an all-encompassing syntax and structure that, if not followed, makes it null and void. If a reasonable person could determine that (in the example of the sign you have) you are required to get written permission from any or all of the Paulding County Commissioners, then the sign is enforceable. I honestly don't see anything wrong with the sign you are displaying, it is reasonably clear.</p>
+<p>If, for example the notice contains an ambiguity or unclear phrase, the "spirit" of the law or sign is upheld. If the sign had said something to the effect of "No trespassing without permission". It doesn't say <em>who</em> you need permission from, but you can reasonably ascertain that you <em>must have</em> permission from somebody in control of the land.</p>
+<p>There is no line in the sand here. Often when a dispute in a contract comes up where it could be interpreted more than one way, it is often interpreted in favor of the person who did not write the contract.</p>
+<blockquote>
+<p>"Offer ends October 30 or while supplies last"</p>
+</blockquote>
+<p>Isn't really "ill-phrased" either. I assure you that those statements are vetted by highly paid lawyers from many jurisdictions. I'm not sure what "nonsense" you would be referring to in there. If the vendor runs out of promotional materials the promotion ends... If they had said "free hats to the first 100 customers on December 31st", you can't show up as the 101st customer and demand a hat, nor could you show up on January 1st (even if there were not 100 customers the previous day) and demand one either.</p>
+<h3>It's only a problem if it's ambiguous or unclear.</h3>
+<p>Courts contend with grammatical mistakes and typos when interpreting text all the time, and have ways of determining what they mean—in fact, determining what text means is a large portion of what courts do.  Even typographical errors (often called "<a href="https://definitions.uslegal.com/c/clerical-error-scriveners-error-vitium-clerici/" rel="noreferrer">scrivener's errors</a>") that change a contract's meaning can be corrected with evidence of what it was supposed to say.</p>
+<p>A good example of a borderline case of bad grammar is <a href="https://loweringthebar.net/2010/12/reckless-driving-acquittal-again-shows-proofreading-is-not-just-for-dorks.html" rel="noreferrer">a Virginia law that required drivers to "stop...any school bus [that was letting out children]."</a>  Note the missing "at".  The trial court judge found that it was obvious what the statute was supposed to say, but the appeals court found that because it was unambiguous (albeit unreasonable), the law should be interpreted literally.  How literally such things are interpreted varies by jurisdiction, as some follow the "absurdity doctrine" that states that when choosing between possible meanings, to eliminate any that would produce absurd results.</p>
+<p>This sign stating that trespassing is forbidden without written permission, however, does not have such ambiguities.  The fact that it isn't possible to trespass <em>with</em> written permission doesn't make it any less clear that you are <em>not</em> allowed to trespass <em>without</em> written permission.</p>
+<p>The McDonald's offer is also clear: all interpretations other than "the offer ends Oct 30  or when supplies run out, whichever happens first" make no sense (an offer can't end "while supplies last"), and no reasonable person would interpret it that way (which is the general standard for interpreting the meaning of text in an advertisement).</p>
+<p>I would have liked to comment on this, but not enough reputation...</p>
+<blockquote>
+<p>I assure you that those statements are vetted by highly paid lawyers</p>
+</blockquote>
+<p>I think it's a clash of culture.
+The OP's view on these signs seems grounded in pure logic (possibly computer science?)
+I assure you that from a purely logical perspective, both statements are indeed nonesense.</p>
+<p>"Offer ends October 30 or while supplies last" literally means:
+"while supplies last, the offer <strong>ends</strong>, and also ends on October 30"</p>
+<p>If I was writing this as computer code, the offer would NEVER be applicable.</p>
+<p>The intended meaning (based on "common sense", not pure logic) obviously is
+"Offer will stop being valid by October 30, or when supplies run out, whichever occurs first"</p>
+<p>Similarly, "getting permission to trespass" is a logical impossibility, since trespassing means entering <em>without permission</em>: you can't get permission to enter without permission, you can only get permission to enter. And if you don't get permission, it's trespassing.</p>
+<p>Looking at these statements with "computer eyes" makes them sound illogical and inapplicable. But... The law clearly is meant for the common person, and to them the intent remains clear, despite the (demonstrably) garbled logic.</p>
+<p>... It does make the statements incomprehensible to non-neurotypical people, though. So it might be argued there is a problem here in term of accessibility (in juridictions where such concept applies)</p>
+<p>If you drive through the backwoods of Maine you'll see lots of signs that say "No Trespassing". They have not been vetted by lawyers; they have been vetted by decades (centuries?) of usage. Everyone knows that "No Trespassing" means "you can't come in here without permission". So "No Trespassing Without Permission", while redundant, isn't at all contradictory. And "No Trespassing Without Permission from XXXX" is perfectly clear.</p>
+<p>As to why it's necessary to state the obvious, it's about hunting, implied easements over land, and traditional usage. "No Trespassing" means exactly what it says and has to be said in order to restrict traditional assumptions about use of land. For more details, go <a href="https://albertoff.tumblr.com/post/9244449330/robert-frost-trespass" rel="nofollow noreferrer">here</a>.</p>
+
+first amendment - Is wearing ACLU's "Let People Vote Pin" to the polling place considered electioneering? - Law Stack Exchange | https://law.stackexchange.com/questions/57474/is-wearing-aclus-let-people-vote-pin-to-the-polling-place-considered-election
+<p>For context, the region I'm in is Sangamon County, Illinois.</p>
+<p>I ordered an <a href="https://shop.aclu.org/let-people-vote-pin/" rel="noreferrer">ACLU pin</a> from their shop. I expect it to arrive before November 3rd and I am excited to wear it at the polling place. I am, however, not certain if this is permitted under the law. I checked on the Electoral Judge's manual for clarification and I found this:</p>
+<blockquote>
+<p>Electioneering is defined as working for, <br>
+against, or in the interest of a candidate, party, or proposition. <br>
+Electioneering is not allowed in the polling place or within the <br>
+campaign free zone (a distance of within 100 horizontal feet of the <br>
+room). No one is permitted to wear a campaign button, display <br>
+political literature, or engage in any political discussion within the <br>
+restricted area.</p>
+</blockquote>
+<p>So I interpret this as putting me in the clear. The pin is unrelated to a candidate, party, or any proposition on my region's ballots.
+I wanted a concrete illustration of the law so I did a search and found within the Illinois Compiled Statutes: 10 ILCS 5/7-41 (c)</p>
+<blockquote>
+<p>No person shall do any electioneering or soliciting of votes on <br>
+primary day within any polling place or within one hundred feet of any <br>
+polling place, or, at the option of a church or private school, on any <br>
+of the property of that church or private school that is a polling <br>
+place. Election officers shall place 2 or more cones, small United <br>
+States national flags, or some other marker a distance of 100 <br>
+horizontal feet from each entrance to the room used by voters to <br>
+engage in voting, which shall be known as the polling room. If the <br>
+polling room is located within a building that is a private business, <br>
+a public or private school, or a church or other organization founded <br>
+for the purpose of religious worship and the distance of 100 <br>
+horizontal feet ends within the interior of the building, then the <br>
+markers shall be placed outside of the building at each entrance used <br>
+by voters to enter that building on the grounds adjacent to the <br>
+thoroughfare or walkway. If the polling room is located within a <br>
+public or private building with 2 or more floors and the polling room <br>
+is located on the ground floor, then the markers shall be placed 100 <br>
+horizontal feet from each entrance to the polling room used by voters <br>
+to engage in voting. If the polling room is located in a public or <br>
+private building with 2 or more floors and the polling room is located <br>
+on a floor above or below the ground floor, then the markers shall be <br>
+placed a distance of 100 feet from the nearest elevator or staircase <br>
+used by voters on the ground floor to access the floor where the <br>
+polling room is located. The area within where the markers are placed <br>
+shall be known as a campaign free zone, and electioneering is <br>
+prohibited pursuant to this subsection. Notwithstanding any other <br>
+provision of this Section, a church or private school may choose to <br>
+apply the campaign free zone to its entire property, and, if so, the <br>
+markers shall be placed near the boundaries on the grounds adjacent to <br>
+the thoroughfares or walkways leading to the entrances used by the <br>
+voters. At or near the door of each polling place, the election judges <br>
+shall place signage indicating the proper entrance to the polling <br>
+place. In addition, the election judges shall ensure that a sign <br>
+identifying the location of the polling place is placed on a nearby <br>
+public roadway. The State Board of Elections shall establish <br>
+guidelines for the placement of polling place signage. <br>
+The area on polling place property beyond the campaign free <br>
+zone, whether publicly or privately owned, is a public forum for the time <br>
+that the polls are open on an election day. At the request of election <br>
+officers any publicly owned building must be made available for use as <br>
+a polling place. A person shall have the right to congregate and <br>
+engage in electioneering on any polling place property while the polls <br>
+are open beyond the campaign free zone, including but not limited to, <br>
+the placement of temporary signs. This subsection shall be construed <br>
+liberally in favor of persons engaging in electioneering on all <br>
+polling place property beyond the campaign free zone for the time that <br>
+the polls are open on an election day. <br></p>
+</blockquote>
+<p>It's striking that electioneering isn't defined within the section, so I reviewed 10 ILCS 5/0.01 et seq. and found section 5/7-4. Definitions does not provide clarification about "electioneering."
+Okay, maybe it's a common sense term. I checked Black's Law Dictionary 5th ed. and also found no definition of "electioneering."</p>
+<p>Well maybe there's relevant case law? I reviewed West's Smith-Hurd ILCS Annotated and found there were no reported cases related to 10 ILCS 5/0.01 et seq.</p>
+<p>Last I checked West's IL Digest and found no relevant case law. There were surprisingly only 5 cases related to elections, none of which had anything to do with electioneering.</p>
+<p>So I imagine if a judge were to make a determination about whether displaying this pin within a polling place is "electioneering," they would have to refer to a dictionary definition. From Webster's:</p>
+<blockquote>
+<p>electioneer verb <br>
+elec·​tion·​eer | \ i-ˌlek-shə-ˈnir  \  <br>
+electioneered; electioneering; electioneers <br>
+<br>
+Definition of electioneer <br>
+intransitive verb <br>
+: to take an active part in an election <br>
+specifically : to work for the election of a candidate or party</p>
+</blockquote>
+<p>Well this is incredibly unhelpful! While this pin is not working for the election of a candidate or party, my very presence in the polling place is taking an active part in an election.</p>
+<p>So in summary, would displaying this pin in a polling place be considered unlawful electioneering?</p>
+<p>A poll worker <a href="https://www.cnn.com/2020/10/20/us/poll-worker-fired-black-lives-matter-trnd/index.html" rel="noreferrer">was fired</a> for making people turn a Black Lives Matter T-shirt inside out before voting. Since it does not advocate for a candidate, a political party or something explicitly on the ballot it is not electioneering in Tennessee.</p>
+<h1>You can wear the button.</h1>
+<p>The regulations have already defined "electioneering," so you really need not go any further. Your button isn't "working for, against, or in the interest of a candidate, party, or proposition," so you're set. Even if you had to resort to dictionary definitions, a court would obviously not accept the first definition as controlling, as it would prohibit anyone from voting in places established for voting, violating the absurdity doctrine.</p>
+<p>But even if the law defined "electioneering" more broadly to include your button, that law would be unconstitutional. The U.S. Supreme Court considered a similar case just a few years ago. In <a href="https://www.law.cornell.edu/supremecourt/text/16-1435#writing-16-1435_OPINION_3" rel="noreferrer"><em>Minnesota Voters Alliance v. Mansky</em>, 849 F. 3d 749 (2018)</a>, Minnesota prohibited voters with "Please I.D. Me" buttons from entering a polling place, citing <a href="https://www.revisor.mn.gov/statutes/cite/211B.11" rel="noreferrer">Minn. Stat. §211B.11(1)</a>, which prohibits wearing anything with a “political badge, political button, or other political insignia” into a polling place. The court struck down the law for violating the First Amendment, saying that even if it was intended to prevent voter intimidation, fraud, or the like, a law limiting speech in the polling place must have clear boundaries:</p>
+<blockquote>
+<p>We do not doubt that the vast majority of election judges strive to enforce the statute in an evenhanded manner, nor that some degree of discretion in this setting is necessary. But that discretion must be guided by objective, workable standards. Without them, an election judge’s own politics may shape his views on what counts as “political.” And if voters experience or witness episodes of unfair or inconsistent enforcement of the ban, the State’s interest in maintaining a polling place free of distraction and disruption would be undermined by the very measure intended to further it.</p>
+</blockquote>
+<p>The court tacitly endorsed restrictions on materials promoting individual candidates, political parties, or ballot issues, but it rejected restrictions that broadly prohibit "political" material and leave it to the elections officials to decide what does and doesn't meet that definition. Your button is a pretty close analogue to the "Please ID Me" buttons at issue in this case, so I think an election official would have to be ignorant or malicious to try to stop you.</p>
+<p>Illinois law has a bit more to say about "electioneering" in <a href="https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=001000050K9-1.14" rel="noreferrer">10 ILCS 5/9-1.14</a>. The core is</p>
+<blockquote>
+<p>any broadcast, cable, or satellite communication, including radio,
+television, or Internet communication</p>
+</blockquote>
+<p>which is really about "communication", and certain other factors which are about "electioneering". Such buttons clearly are not "communication": the question is whether the court would apply a whole-act or whole-code canon to supply a definition when one is statutorily missing. The part that identifies "electioneering" is:</p>
+<blockquote>
+<p>(1) refers to (i) a clearly identified candidate or candidates who
+will appear on the ballot for nomination for election, election, or
+retention, (ii) a clearly identified political party, or (iii) a
+clearly identified question of public policy that will appear on the
+ballot</p>
+</blockquote>
+<p>...</p>
+<blockquote>
+<p>(3) is targeted to the relevant electorate, and (4) is susceptible to
+no reasonable interpretation other than as an appeal to vote for or
+against a clearly identified candidate for nomination for election,
+election, or retention, a political party, or a question of public
+policy.</p>
+</blockquote>
+<p>The button fails to constitute electioneering in that sense, because any association between the slogan and a particular candidate is unclear. On a balance of probabilities, it most likely refers (negatively) to particular candidates, but the law is framed in terms of clear statements, and not vague implications.</p>
+<p>The law states a prohibition, but does not clearly say what the consequences of a violation are. Presumably, polling officials will tell an offender to remove the button. Under 10 ILCS 5/29-11,</p>
+<blockquote>
+<p>Failure to comply with order of election authority. Any person who
+knowingly fails or refuses to comply with any lawful order of an
+election authority issued by the election authority in the performance
+of the duties of the election authority, shall be guilty of a Class A
+misdemeanor.</p>
+</blockquote>
+<p>Then the prosecution would have to prove that the order was lawful. A judge is highly unlikely to read just the part of the definition that says "to take an active part in an election" (because then "I voted" stickers would be illegal). The <em>whole</em> definition specifically limits this to candidates and parties (which omits ballot propositions: that definition is defective).</p>
+
+criminal law - I was racially abused at a public park. What legal actions can I take? - Law Stack Exchange | https://law.stackexchange.com/questions/56851/i-was-racially-abused-at-a-public-park-what-legal-actions-can-i-take
+<p>I was racially abused at a public park. Basically out of no where he called me a terrorist. I ignored him. After a while he came directly to me and ask me to go away and said this is Australia.</p>
+<p>The offender was a food truck owner.  I am afraid that if I report to the police, the police won't take any action and just record
+it as another racial abuse statistic. I have his details, pictures and video recording the incident .  I live in Australia.</p>
+<p>Edit:
+I am not of middle eastern decent but I do have a beard. I was wearing a robe like garment for a cultural function i was attending. This is what provoked him. But i think, most of all is that I'm what people can immediately judge as a geek and weak appearing person (I slightly resemble Mark Zuckerberg).  So people don't usually fear confronting me.</p>
+<p>You should file a complaint with the police.</p>
+<ol>
+<li><p>If you complain to the police then they might do something. If you don't complain then they certainly won't.</p>
+</li>
+<li><p>Are food trucks licensed? You might try complaining to the license authority. However go to the police first because the licence authority are unlikely to do anything without a police complaint.</p>
+</li>
+<li><p>Even being just another statistic helps increase the pressure for action on the wider issue of racism in society.</p>
+</li>
+</ol>
+<p>If all else fails you can just post the incident on YouTube and see what happens. Its an unreliable method of enforcement and can backfire, but it has been known for international embarrassment to kick reluctant authorities into action.</p>
+<p>From the Federal Racial Discrimination Act 1975:</p>
+<blockquote>
+<p>18C  Offensive behaviour because of race, colour or national or ethnic origin</p>
+<p>(1)  It is unlawful for a person to do an act, otherwise than in private, if:</p>
+<p>(a)  the act is reasonably likely, in all the circumstances, to offend, insult, humiliate or intimidate another person or a group of people; and</p>
+<p>(b)  the act is done because of the race, colour or national or ethnic origin of the other person or of some or all of the people in the group.</p>
+</blockquote>
+<p>You actually have a few avenues you can go down to complain.</p>
+<p>Firstly, you can complain to the Australian Human Rights Commission, which is afederal body responsible for responding to these complaints. <a href="https://humanrights.gov.au/complaints/make-complaint" rel="noreferrer">https://humanrights.gov.au/complaints/make-complaint</a></p>
+<p>Secondly, you can complain to your relevant state or territory police force, who are empowered under this act to investigate complaints.</p>
+<p>And lastly, you can complain to your local council, who almost certainly issue permits to such food trucks to allow them to operate.</p>
+<p>While this is fresh in your mind, you should note down as many details as you can remember. Exact words that were said. Exact times and place. Things that may not be captured well in the video you took.</p>
+<p>Please remember that statistics matter. Even if you feel like you making such a report will go nowhere, it can influence funding, it can influence decisions.</p>
+<p>Firstly, sorry to hear this has happened to you. This type of thing can be very upsetting and ruin your whole weekend.</p>
+<p>Do you know if the food truck is part of a chain? If he is a franchisee, you can complain the head franchisor about the inappropriate behaviour and he'll hopefully be disciplined.</p>
+<p>I would definitely call the police non-emergency line and report the incident. This is important as this man may abuse you again in public in the future, and the police need to hold a record of the first time it happened in case this escalates.</p>
+<p>You can post it on Youtube, but you need to ask yourself why you're doing this. Is it to increase awareness of racism in Australia, or just to embarrass the man? Think carefully before doing this, as it could backfire and aggravate the man further. If he finds out your identity, he may stalk and harass you outside your home or work, so you need to prepared for the retaliation he might take if you post images of him on Youtube.</p>
+<p>Lastly, do you know what prompted the abuse? There must have been something that triggered it, like a behaviour that offended him? I used to live in Australia, and I only ever saw this type of racial name calling happen after two men got into a fight over something, with the exception of alcoholics and drug addicts who shout offensive, racial remarks often as their brains have turned to mush. The police call centre will ask you detailed questions about what may have triggered abuse, so you need to be clear with them about what triggered him when you report it. If they investigate further, they'll visit the man and ask for his version of events, and he'll probably say you started it (in these cases, people always get defensive and blame the other person, so be prepared for this). Give the police your video footage so they can refer to this if they do investigate further.</p>
+
+united states - Is the typo in the 25th amendment significant? - Law Stack Exchange | https://law.stackexchange.com/questions/57028/is-the-typo-in-the-25th-amendment-significant
+<p>The fourth section of the 25th amendment to the US constitution provides for the president to be declared unfit involuntarily.  The first of its two paragraphs describes the declaration itself, made by the vice president along with "a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide."</p>
+<p>The second paragraph describes a mechanism for the president to resume the "powers and duties" of the office by declaring "that no inability exists."  This paragraph also establishes a mechanism for "the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide" to challenge the president's declaration.</p>
+<p>This question is about the difference in the designation of those whose action is required along with the vice president.  The first paragraph uses the word "departments," plural, and the second uses "department," singular.</p>
+<p>I suppose that the second paragraph was added during the debates on the amendment, and that the use of the singular in the second paragraph is probably an error.</p>
+<p>Would courts be likely conclude that the difference is unintentional?  If not, does the use of the singular change the meaning of the phrase significantly?</p>
+<p>I am especially interested in answers that look at the the legislative history of the amendment to support or refute the hypothesis that the second paragraph was an addition to the original form of the text.  As far as I can tell, the relevant congressional documents are not available online for the 1960s.</p>
+<p><em>Prologue</em>, a magazine published by the National Archives, had an <a href="https://www.archives.gov/publications/prologue/2012/fall/const-errors.html" rel="noreferrer">article about the missing S</a> back in 2012.</p>
+<p>In short, the problem was due to a scrivener's error. Congress recognized the error at roughly the same time it submitted the amendment to the states but decided it was too late to fix it:</p>
+<blockquote>
+<p>There was a brief discussion of the possibility of recalling the joint resolution for reconsideration in each chamber, but Congress was operating under severe time pressures as it worked toward adjournment for the summer, and it was decided that the record of congressional debates and actions on successive versions of the joint resolution made the intent so clear that the missing s could not affect interpretation of the text. The proposed amendment was therefore allowed to go to the states in its imperfect form.</p>
+</blockquote>
+<p>Given the basically undisputed nature of the error, I think it would be unlikely that courts would indulge an argument that "department" should be interpreted differently than "departments," at least in any way that would change the outcome of a dispute under the 25th Amendment.</p>
+<p>At first glance, the Question appears to be rightly dismissed in bdb484's wholly reasonable Answer but law is law and English is English and surely we all remember how often the spirit is not made clear in the letter…</p>
+<p>Here in the UK, we have a wholly separate law whose sole purpose is to change the word "the" in a previous law to "a". Please consider the ramifications in language of comparing "the" to "a", as against plural or singular "department(s)", and what knots a skilled lawyer could tie the courts in, for right or wrong.</p>
+<p>As it happens our UK case is quite similar revealing, just like this Question, a huge difference in meaning between first and second references to the same thing.</p>
+<p>For those who mind, the entire wording of the Public Order (Amendment) Act 1996 is:</p>
+<blockquote>
+<p>An Act to amend the power of arrest of section 5 of the Public Order
+Act 1986.</p>
+<p>[17th October 1996]</p>
+<p>Be it enacted by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons,
+in this present Parliament assembled, and by the authority of the
+same, as follows:—</p>
+<p>1 Power of arrest Section 5(4)(a) of the [1986 c. 64.] Public Order
+Act 1986 shall be amended by leaving out the word “the” and inserting
+the word “a”.</p>
+<p>2 Citation This Act may be cited as the Public Order (Amendment) Act
+1996.</p>
+</blockquote>
+<p>A minxy little 101 words, carefully considered over 10 years, to change the law!</p>
+<p>For those who <em>really</em> care, the original Public Order Act 1986 said:</p>
+<blockquote>
+<p>"A constable may arrest a person without warrant if—
+(a) he engages in offensive conduct which <em>the</em> constable warns him to stop, and…" (blah la la)</p>
+</blockquote>
+<p>Now please again consider both how slight in language and how huge in law is the difference between "the" and "a", and again, compare that to "department(s)"</p>
+
+united states - Is youtube-dl takedown due to their tests which use copyrighted content? - Law Stack Exchange | https://law.stackexchange.com/questions/57421/is-youtube-dl-takedown-due-to-their-tests-which-use-copyrighted-content
+<p>The <a href="https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md" rel="noreferrer">DMCA takedown notice</a> posted on GitHub's <code>youtube-dl</code> page seems to be primarily based on the fact that <code>youtube-dl</code> is expressly advertised as a tool to "circumvent the technological protection measures used by authorized streaming services", to the point that the test cases consist in downloads of videos copyrighted by WMG and Sony Music:</p>
+<blockquote>
+<p>Indeed, the comments in the youtube-dl source code make clear that the source code was designed and is marketed for the purpose of circumventing YouTube’s technological measures to enable unauthorized access to our member’s copyrighted works, and to make unauthorized copies and distributions thereof: they identify our member’s works, they note that the works are VEVO videos (virtually all of which are owned by our member companies), they acknowledge the those works are licensed to YouTube under the YouTube standard license, and they use those examples in the source code to describe how to obtain unauthorized access to copies of our members’ works.</p>
+</blockquote>
+<p>Is this really the crux of the problem? That is, if <code>youtube-dl</code> developers removed problematic test cases, comments and links to copyrighted videos, would the project become compliant with the Section 1201 of the DMCA? Or is the real problem that <code>youtube-dl</code> implements the "rolling cipher" used by YouTube to protect their content?</p>
+<p>The takedown action is a little sketchy. The law regarding takedown notices and host liability is <a href="https://www.law.cornell.edu/uscode/text/17/512#c_3" rel="noreferrer">here</a>. The notice includes "Identification of the copyrighted work claimed to have been infringed", a "signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed", and a statement that "the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law". These things are present in the notice, for which reason the items were taken down.</p>
+<p>The complaint states that</p>
+<blockquote>
+<p>The clear purpose of this source code is to (i) circumvent the
+technological protection measures used by authorized streaming
+services such as YouTube, and (ii) reproduce and distribute music
+videos and sound recordings owned by our member companies without
+authorization for such use. We note that the source code is described
+on GitHub as “a command-line program to download videos from
+YouTube.com and a few more sites.”</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>the source code expressly suggests its use to copy and/or distribute
+the following copyrighted works owned by our member companies:</p>
+<p>Icona Pop – I Love It (feat. Charli XCX) [Official Video], owned by
+Warner Music Group Justin Timberlake – Tunnel Vision (Explicit), owned
+by Sony Music Group Taylor Swift – Shake it Off, owned/exclusively
+licensed by Universal Music Group</p>
+</blockquote>
+<p>Complainants are "confused" about actual infringement (which is prohibited by copyright law), and creating a method for infringing copyright. Under DMCA and US copyright law, copying is infringing, programming is not infringing. The complaint does not clearly allege unauthorized copying of another person's intellectual property, and their complaint is based on the theory that certain programming actions constitute copyright infringement. I don't actually think they are confused, I think they are testing the boundaries.</p>
+<p>Github has no reasonable options but to comply; the authors have the option of filing a counter-notice; then RIAA has the option of claiming that they have filed a copyright infringement lawsuit. If they do, the material remains taken down and the courts sort it out <em>if</em> a lawsuit is actually filed. There is minimal burden on the complainant to reign-in over-zealous takedown notice practices: <a href="https://caselaw.findlaw.com/us-9th-circuit/1729382.html" rel="noreferrer">Lenz v. Universal Music</a> finds that complainants must give good faith consideration to a fair use defense.</p>
+<p><a href="https://www.law.cornell.edu/uscode/text/17/1201" rel="noreferrer">17 USC 1201(a)(1)(A)</a> states that</p>
+<blockquote>
+<p>No person shall circumvent a technological measure that effectively
+controls access to a work protected under this title.</p>
+</blockquote>
+<p>Let's assume that the removed material does circumvent a technological measure protecting a work. This is a separate offense in Title 17. <a href="https://www.law.cornell.edu/uscode/text/17/501" rel="noreferrer">17 USC 501(a)</a> defines infringement of copyright, saying</p>
+<blockquote>
+<p>Anyone who violates any of the exclusive rights of the copyright owner
+as provided by sections 106 through 122 or of the author as provided
+in section 106A(a), or who imports copies or phonorecords into the
+United States in violation of section 602, is an infringer of the
+copyright or right of the author</p>
+</blockquote>
+<p>Production of an anti-circumvention technology is not included in those sections: on a plain reading of the law, this is not infringement.</p>
+<p>To summarize the legal dance at issue: RIAA has taken the first legal step in alleging infringement, and Github has taken the material down <em>because Github does not get to decide what the courts would conclude</em>. Let's assume the authors file a counter-notice stating that there is no infringement; then, equally, let's assume that RIAA states that they files a lawsuit. Github will leave the material down. Let's also assume that RIAA actually files suit. Under the prior assumption that the material violates 17 USC 1201(a)(1)(A) which seems likely, the authors could be slapped for being in violation: but they would not have been in violation of §106-122. What recourse would the authors have for RIAA's misuse of the term "infringe", and against whom? Nothing against Github: the service provider does not get to decide the merits of the case. Perhaps RIAA. From <em>Lenz</em> supra,</p>
+<blockquote>
+<p>If an entity abuses the DMCA, it may be subject to liability under §
+512(f). That section provides: “Any person who knowingly materially
+misrepresents under this section—(1) that material or activity is
+infringing, or (2) that material or activity was removed or disabled
+by mistake or misidentification, shall be liable for any damages․” Id.
+§ 512(f). Subsection (1) generally applies to copyright holders and
+subsection (2) generally applies to users. Only subsection (1) is at
+issue here.</p>
+</blockquote>
+<p>The court said that</p>
+<blockquote>
+<p>We must next determine if a genuine issue of material fact exists as
+to whether Universal knowingly misrepresented that it had formed a
+good faith belief the video did not constitute fair use. This inquiry
+lies not in whether a court would adjudge the video as a fair use, but
+whether Universal formed a good faith belief that it was not. Contrary
+to the district court's holding, <em>Lenz may proceed under an actual
+knowledge theory, but not under a willful blindness theory</em>.</p>
+</blockquote>
+<p>Perhaps the authors can prove actual knowledge. The Lenz reasoning on this point (§IV C) is rather contorted.</p>
+<p>The takedown request states:</p>
+<ul>
+<li>A list of youtube-dl forks to take down (uninteresting)</li>
+</ul>
+<blockquote>
+<p>The clear purpose of this source code is to (i) circumvent the technological protection measures used by authorized streaming services such as YouTube, and (ii) reproduce and distribute music videos and sound recordings owned by our member companies without authorization for such use. We note that the source code is described on GitHub as “a command-line program to download videos from YouTube.com and a few more sites.”1</p>
+</blockquote>
+<p>This seems purposely false.</p>
+<p>As for (i) IMHO the clear purpose of the source code is to <strong>download videos from youtube</strong> (and other services). I wouldn't even consider YouTube a "streaming service". I would consider youtube-dl to be centered on <em>downloading the files that people upload</em>. In fact, youtube-dl repository goes back to July 2008. YouTube started testing live streams in 2009, rolled out live streaming in April 2011 and wasn't opened to the general public until 2013 (<a href="https://en.wikipedia.org/wiki/YouTube#Live_streaming" rel="noreferrer">Source</a>).</p>
+<p>And for (ii), it seems narcissist to consider that youtube-dl was made just <em>for videos and sound recordings owned by their member companies without authorization</em>. It's not like YouTube only had RIAA content, precisely.</p>
+<blockquote>
+<p>We also note that the source code prominently includes as sample uses of the source code the downloading of copies of our members’ copyrighted sound recordings and music videos, as noted in Exhibit A hereto. For example, as shown on Exhibit A, the source code expressly suggests its use to copy and/or distribute the following copyrighted works owned by our member companies: (...)</p>
+</blockquote>
+<p>Not at all. They are included as tests for the features, not as "sample uses". It doesn't even include a command line on how to download them. Those are date in json format (a list of dictionaries) which are assigned to a variable named <code>_TESTS</code>. That can hardly be construed as suggesting the use of the program to copy or distribute those videos. In fact, what it might have produced is to artificially raise the view count of those videos by their members, as they would be downloaded automatically when running the tests by <a href="https://travis-ci.org/github/ytdl-org/youtube-dl/builds" rel="noreferrer">GitHub testing architecture</a> (or manually by the developers themselves), without the vedeos really been seen.</p>
+<blockquote>
+<p>The source code notes that the Icona Pop work identified above is under the YouTube Standard license, which expressly restricts access to copyrighted works only for streaming on YouTube and prohibits their further reproduction or distribution without consent of the copyright owner; that the Justin Timberlake work identified above is under an additional age protection identifier; and that the request for the Taylor Swift work identified above is to obtain, without authorization of the copyright owner or YouTube, an M4A audio file from the audiovisual work in question.</p>
+</blockquote>
+<p>The tests want to ensure that the code is able to download</p>
+<ul>
+<li>Normal videos (<code>'note': 'Test generic use_cipher_signature video (#897)'</code>)</li>
+<li>Videos with an age limit (<code>'note': 'Test VEVO video with age protection (#956)'</code>)</li>
+<li>And the comment on Taylor Swift video (<code>JS player signature function name containing $</code>) actually seems like a bug that was detected related to that video, so it was included to ensure it didn't reappear. (<a href="https://github.com/ytdl-org/youtube-dl/issues/4706" rel="noreferrer">issue 4706</a>, "Looks like Google switched to a new JS compiler that includes dollar signs in function names.")</li>
+</ul>
+<blockquote>
+<p>We have a good faith belief that this activity is not authorized by the copyright owner, its agent, or the law. We assert that the information in this notification is accurate, based upon the data available to us.</p>
+</blockquote>
+<p>This is probably a boilerplate text, but what appears before is not really a content infringing on their members copyright. It might be that Icona Pop, Justin Timberlake and Taylor Swift would be upset that youtube-dl developers ensured that their videos could be viewed properly, though.</p>
+<blockquote>
+<p>Anticircumvention Violation. We also note that the provision or trafficking of the source code violates 17 USC §§1201(a)(2) and 1201(b)(1). The source code is a technology primarily designed or produced for the purpose of, and marketed for, circumventing a technological measure that effectively controls access to copyrighted sound recordings on YouTube, including copyrighted sound recordings owned by our members. For further context, please see the attached court decision from the Hamburg Regional Court that describes the technological measure at issue (known as YouTube’s “rolling cipher”), and the court’s determination that the technology employed by YouTube is an effective technical measure within the meaning of EU and German law, which is materially identical to Title 17 U.S.C. §1201 of the United States Code. The court further determined that the service at issue in that case unlawfully circumvented YouTube’s rolling cipher technical protection measure.2 The youtube-dl source code functions in a manner essentially identical to the service at issue in the Hamburg Regional Court decision. As there, the youtube-dl source code available on Github (which is the subject of this notice) circumvents YouTube’s rolling cipher to gain unauthorized access to copyrighted audio files, in violation of YouTube’s express terms of service,3 and in plain violation of Section 1201 of the Digital Millennium Copyright Act, 17 U.S.C. §1201.</p>
+</blockquote>
+<p>Actually, and without having digged into those decisions, I see more value on the claim that youtube-dl is infringing DMCA based on the that it is circumventing the technological measure of the rolling cipher. Exclusively, as I see no basis for the prior statements.</p>
+<blockquote>
+<p>Indeed, the comments in the youtube-dl source code make clear that the source code was designed and is marketed for the purpose of circumventing YouTube’s technological measures to enable unauthorized access to our member’s copyrighted works, and to make unauthorized copies and distributions thereof:</p>
+</blockquote>
+<p>However, they are not including such clear comments as evidence. Plus again, it's egoistic to claim that it was done to get access for their members works.</p>
+<blockquote>
+<p>they identify our member’s works, they note that the works are VEVO videos (virtually all of which are owned by our member companies), they acknowledge the those works are licensed to YouTube under the YouTube standard license, and they use those examples in the source code to describe how to obtain unauthorized access to copies of our members’ works.</p>
+</blockquote>
+<p>Again, those are not examples but tests. Apparently, the developers simply included existing videos in their tests to check that it was working correctly. It would have been preferable that they used their own test videos (as they also did at times). Just above the entry of Icona Pop, there is one for <a href="https://www.youtube.com/watch?v=BaW_jenozKc&amp;t=1s&amp;end=9" rel="noreferrer">youtube-dl test video "'/\ä↭𝕐</a>, so following the RIAA rationale, the purpose of youtube-dl developers would be that people copy and distribute such video, instead of ensuring that videos with special characters in their description are handled correctly.</p>
+<blockquote>
+<p>In light of the above noted copyright infringements and anticircumvention violations, we ask that you immediately take down and disable access to the youtube-dl source code at all of its locations where it is hosted on GitHub, including without limitation those locations in the representative list set forth above.
+etc.</p>
+</blockquote>
+<hr>
+<p><strong>RIAA and good faith</strong></p>
+<p>It's also interesting to note that the RIAA members content is so tangential that had RIAA reached youtube-dl requesting them to be removed from the list of tests, rather than directly sending a DMCA takedown, I'm quite sure they would have happily complied, since those entries are clearly not for what RIAA claims.</p>
+<p>The takedown request is also overly ample, by targetting the whole repository, whereas it could have targeted instead only the file <a href="https://github.com/ytdl-org/youtube-dl/extractor/youtube.py" rel="noreferrer">https://github.com/ytdl-org/youtube-dl/extractor/youtube.py</a> which seems to be the one they are angry with. This is just one of the 766 files on the extractor folder.</p>
+<p><strong>My usage of youtube-dl</strong></p>
+<p>Finally, since they seem to be demonizing youtube-dl, let me clarify my stance. Yes,
+I have used youtube-dl in the past. Last one was 6 months ago. It had absolutely no relationship with VEVO, RIAA or music companies.</p>
+<p>In fact, I have been in the situation where downloading then viewing was the only recourse to watch certain videos, as the web interface of the platform didn't work on the user browser, required obnoxious steps or simply, was constantly being stopped due to low bandwidth, to the point of making it impossible to watch.</p>
+<p>So much for the "clear purpose" of youtube-dl to infringe upon RIAA member companies.</p>
+
+united states - Does copyright law protect a translation of an ancient work from being translated into a third language? - Law Stack Exchange | https://law.stackexchange.com/questions/57265/does-copyright-law-protect-a-translation-of-an-ancient-work-from-being-translate
+<p>Jurisdiction: California, USA.</p>
+<p>If a book was written in Greek two thousand years ago, and someone translated it into English more recently (say, yesterday), and then someone else wants to translate that English translation into French, would that be a violation of copyright law?</p>
+<p>This resource suggests to me that it may be: <a href="https://www.translatorsbase.com/articles/42.aspx" rel="noreferrer">https://www.translatorsbase.com/articles/42.aspx</a></p>
+<p>However I haven't found really clear legal information about such re-translation.</p>
+<h2>The English translation is a copyrighted work</h2>
+<p>While the original Greek is public domain, the English translation is a new literary work with its own copyright running for 70 years after the author(s) death(s). The French translation of the English work would require the permission of the author(s). A French translation of the original Greek wouldn't.</p>
+<p>This assumes that the translation was not simply mechanical; like running it through Google translate. A purely mechanical translation lacks the originality required to create a literary work - an English translation obtained algorithmically is a copy; just like a zip file is a copy.</p>
+
+public health - Is it illegal in Germany to spread a list of locations that allow you to violate compulsory mask wearing - Law Stack Exchange | https://law.stackexchange.com/questions/57236/is-it-illegal-in-germany-to-spread-a-list-of-locations-that-allow-you-to-violate
+<p>I was recently sent a website which, among other terrible health advice, links to a custom google map which allows users to enter locations where they can shop/go to without wearing a face mask (due to COVID-19) and not face any consequences. Since wearing face masks is mandatory in Germany, are there any laws that are violated by:</p>
+<ul>
+<li>creating such a map in the first place (although it is user-entered content) and</li>
+<li>linking to a map from one's own website?</li>
+</ul>
+<p>Additional information: The website's legal notice (An Impressum, which is mandatory in Germany) attributes the website to a woman living in Germany.</p>
+<p>Reasons why I think this could/should be illegal:</p>
+<ul>
+<li>It gives advice on how to circumvent public health related laws</li>
+<li>If enough people utilize this website, it could seriously endanger lots of people</li>
+</ul>
+<ul>
+<li>The COVID restrictions are new enough that there are few court decisions on how to interpret them. There are frequent requests for court injunctions seeking temporary relief. Some pass, some are denied.</li>
+<li>The website <em>might</em> accuse locations listed there of breaking the restrictions. Making such an accusation in public sounds like a very bad idea, <em>especially</em> if there is no solid documentation. But the aggrieved party would be any location falsely listed.</li>
+<li>The site may or may not be hosted in Germany. If it is not, it becomes a really interesting question which law applies.</li>
+</ul>
+<p>You might inform the authorities, but beyond that, forget it.</p>
+<p>The page owner might be breaking the law in three ways:</p>
+<ul>
+<li>She might unrightfully claim that certain businesses are breaking the law, punishable as <a href="https://dejure.org/gesetze/StGB/187.html" rel="noreferrer">defamation</a> and under civil law.</li>
+<li>She might <a href="https://dejure.org/gesetze/StGB/27.html" rel="noreferrer">help</a> others to break the law.</li>
+<li>She might <a href="https://dejure.org/gesetze/StGB/111.html" rel="noreferrer">instigate</a> others to the illegal act of not wearing a mask.</li>
+</ul>
+<p>However, I see some similarities to the unpunished act of publishing speed camera locations.</p>
+<p>On a final note, I doubt that the location of the web server will have an impact on the jurisdiction, as it is clearly targeted towards a local audience.</p>
+<p>As a private person, you can report the behavior to the police and health authorities, but you can not sue them per se - it is up to the Police to investigate (which they have the duty of) and the Staatsanwalt to decide to instigate a lawsuit. The Staatsanwaltschaft also will know best if and which laws were broken by both the listed places and the hoster.</p>
+<p>The Health authorities might use your tip to investigate on the listed businesses, and again, it would be them to instruct/request a Staatsanwalt to instigate the lawsuit while themselves can hand out fines for noncompliance with ordinances. In some cases, they might shut down businesses until compliance with health standards is achieved, usually in gastronomic enterprises.</p>
+<p>As the regulations are made and struck down, there is a rather fluent state of if the Staatsanwaltschaft will do anything, but reporting it is the only way to bring it to their attention.</p>
+
+criminal law - Can someone be charged with the murder of unidentified victims? - Law Stack Exchange | https://law.stackexchange.com/questions/57270/can-someone-be-charged-with-the-murder-of-unidentified-victims
+<p>I've been watching "Des", ITV's dramatisation of the arrest and trial of serial killer Dennis Nielsen.  The police seem desperate to identify the names of the victims, despite having the bodies of the victims and ample evidence of Nielsen's guilt.  Is there a particular reason for this (besides a desire to follow protocol properly and identify the victims' families, etc?)</p>
+<p>I'm not a lawyer, but the show makes it seem like the police need to identify the victims in order to charge him with murder - like him being caught with multiple unidentified dead bodies in his house and admitting to guilt isn't enough.</p>
+<p>(For those wondering, Nielsen claimed not to know the identities of his victims as they were predominantly homeless young men and, prior to murdering them, he had only had (in most cases) brief, consensual homosexual encounters with them and spoken to them on first-name terms, which was actually quite plausible).  And it seems logical to me to believe that crimes require identified victims for charges to be brought.</p>
+<p>Can someone be charged with murder of an unidentified victim?</p>
+<h2>Yes, a person can be charged with the murder of person or persons unknown</h2>
+<p>The reason that police are really keen to identify the victim include (in no particular order):</p>
+<ol>
+<li>It will probably clear up a missing persons case;</li>
+<li>So they can inform the next-of-kin;</li>
+<li>Being able to place a named person who loved and was loved before a jury rather than nameless corpse increases the chance of conviction - all else being equal.</li>
+</ol>
+<h1>Let's try a thought experiment:</h1>
+<p><strong>Assume</strong> (contrary to law) to get sentenced, not only you need to prove that someone did the killing, but also who the victim was.</p>
+<p>This could lead to the following scenario:</p>
+<ul>
+<li>Alice kills Bob.</li>
+<li>To make sure nobody recognizes Bob, she chops off his hands and head, then throws both into a snowplow.</li>
+<li>To evade DNA evidence, she takes the resulting mess and the rest of the skeleton and burns them to crisp.</li>
+<li>Nothing to identify the remains as Bob's is left.</li>
+<li>The resulting head- and handless skeleton without DNA she puts up as Halloween decoration.</li>
+</ul>
+<p>As it was made impossible to identify Bob with the remains, Alice can't be sentenced under this hypothetical law. In fact, its very setup does not only <em>benefit</em> such gruesome behavior to disguise the identity of the victims, it <em>encourages</em> it.</p>
+<h1>How the law works</h1>
+<p>Now, the thought experiment shows how gruesome the results would be if the law demanded identification. But the murder statutes are - in Common Law, Code Civil and Germanic tradition - written in ways that make the identity and even what the killed person did, in general, is made irrelevant, they focus on the <em>mens rea</em> of the one conducting the killing<sup>aside from self-defense</sup>. Some examples:</p>
+<ul>
+<li>The <a href="https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/body" rel="nofollow noreferrer">UK</a> does not define what is murder in a statute, but has laws which killing of someone is <strong>not</strong> murder by pointing to circumstances and the state of mind and what it is instead then.</li>
+<li><a href="http://ypdcrime.com/penal.law/article125.htm#p125.25" rel="nofollow noreferrer">NY-State</a> defines variations of murder based on the intent of the killing and the circumstances (Felony Murder Rule)</li>
+<li><a href="https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html" rel="nofollow noreferrer">Germany</a> has its homicide crimes in StGB §211 to 213, which require the act of killing and an investigation into the intent and circumstanced to decide what section applies.</li>
+<li><a href="https://web.archive.org/web/20071102213033/http://195.83.177.9/code/liste.phtml?lang=uk&amp;c=33&amp;r=3685" rel="nofollow noreferrer">France</a> defines its (baseline) murder as "willful killing", so they require the act and the <em>mens rea</em></li>
+</ul>
+
+encryption - Am I obligated to decrypt lots of data for GDPR requests? - Law Stack Exchange | https://law.stackexchange.com/questions/56932/am-i-obligated-to-decrypt-lots-of-data-for-gdpr-requests
+<div>
+            <aside class="s-notice s-notice__info js-post-notice mb16" role="status">
+        <div class="grid fd-column fw-nowrap">
+            <div class="grid fw-nowrap">
+                    <div class="grid--cell mr8">
+                        <svg aria-hidden="true" class="svg-icon iconMigrate" width="18" height="18" viewBox="0 0 18 18"><path d="M14 3H5V1h9a2 2 0 012 2v12a2 2 0 01-2 2H5v-2h9V3zM2 10V8h5V5l4 4-4 4v-3H2z"></path></svg>
+                    </div>
+                <div class="grid--cell fl1 lh-lg">
+                    <div class="grid--cell fl1 lh-lg">
+                        This question was <a href="https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work">migrated</a> from Information Security Stack Exchange because it can be answered on Law Stack Exchange.
+                        <a href="https://security.stackexchange.com/posts/239215/revisions">Migrated</a> <span title="Oct 6 at 10:27"><span title="2020-10-06 10:27:12Z" class="relativetime">21 days ago</span></span>.
+                    </div>
+                </div>
+            </div>
+        </div>
+</aside>
+
+    </div>
+
+<p>I am providing a B2B service where customer data of businesses are stored in an SQL table.
+As I never need to query for this personal data, the data at rest there is asymmetrically encrypted with the associated businesses public key.</p>
+<p>Since the information is encrypted, I cannot query for any personal customer data.</p>
+<p>Example of the customer table:</p>
+<pre><code>------------------------------------------------------------
+| business | firstname     | lastname      | private-data  |
+------------------------------------------------------------
+| 12345    | xXencryptedxX | xXencryptedxX | xXencryptedxX |
+------------------------------------------------------------
+| 12345    | xXencryptedxX | xXencryptedxX | xXencryptedxX |
+------------------------------------------------------------
+| 12345    | xXencryptedxX | xXencryptedxX | xXencryptedxX |
+------------------------------------------------------------
+| 12345    | xXencryptedxX | xXencryptedxX | xXencryptedxX |
+------------------------------------------------------------
+</code></pre>
+<p>For a GDPR information request I would need to fetch every single entry (tens of millions), associate the private key of the linked business, decrypt every single entry and do a string comparison search for every entry.</p>
+<p>Given the enormously high cost of processing the data, am I obligated to do so as per a GDPR information request or could I argue that this would be a disproportionate effort as per <a href="https://www.privacy-regulation.eu/en/article-14-information-to-be-provided-where-personal-data-have-not-been-obtained-from-the-data-subject-GDPR.htm" rel="noreferrer">Article 14</a>?</p>
+<p>After all, I am demonstrating my willingness to ensure high effort security by voluntarily only storing it encrypted.</p>
+<p>It is the data controller's responsibility to respond to data subject requests. If you provide a B2B service, you are most likely a data processor who only acts on the controller's behalf, on the controller's explicit instruction. This will depend on your contract with the controllers, your customers (see Art 28).</p>
+<p>Typically a processor would merely forward any data subject requests to the controller. Only if you are contractually obligated to serve data subject requests would it be possible for you to respond directly. If a processor were to fulfil a data subject request on their own initiative, <em>that</em> would arguably be a GDPR violation. However, the processor has to assist their controller with compliance per Art 28(3)(e), e.g. by implementing an admin interface through which the controller can service GDPR requests.</p>
+<p>The core issue here is that controllers and processors have slightly different obligations in order to be GDPR compliant. Controllers owe compliance to the data subjects, but processors only act on the controller's behalf and owe compliance to their controllers – they have no direct relationship with data subjects.</p>
+<hr>
+<p>Assuming you were a controller, then yes, I would assume you would have to decrypt any data that you are able to decrypt in order to fulfil a data subject request. Access requests can only be denied if:</p>
+<ul>
+<li>Art 12(5): they are “manifestly unfounded or excessive” (which the controller has to demonstrate), or</li>
+<li>Art 15(4): the access would “adversely affect the rights and freedoms of others”.</li>
+<li>Art 11(2): the controller can demonstrate that they are actually unable to identify the data subject so no data subject rights in Art 15–20 apply.</li>
+</ul>
+<p>A request is not automatically excessive just because it will require substantial CPU time, this exception is more often triggered when data subjects request the same data very frequently (e.g. every week). You are not required to provide or search data that you don't have access to (e.g. E2E encrypted data).</p>
+<p>Your use of per-field encryption is a very strong security measure (depending on how keys are managed). But GDPR is not about achieving maximum technical data protection, but merely requires <em>appropriate</em> safety measures (see GDPR Chapter 4, especially Art 32). Asymmetric encryption of small fields within a database is unlikely to be appropriate, taking into account the cost of processing and the data subject's ability to exercise their rights. A different security measure to ensure that every business only sees the correct data would be through testing and code review of your SQL queries, and full disk encryption of the server storing the database. In practice, asymmetric encryption is most often just used to encrypt a symmetric key, which is then used for the actual data. But which measures are appropriate also depends on the risk to data subjects – your approach could make sense for very sensitive data.</p>
+<p>Art 14 does not play a role here. It is about transparency of processing: that you need to (a) notify the data subject that you're processing their data, if feasible, and that you (b) provide information <em>about</em> this processing, usually in form of a privacy policy. Art 14 is the pendant to Art 13, which applies when data is obtained directly from the data subject. The Art 15 right to access and the Art 20 right to data portability are distinct from the right to be informed. In any case, it is the controller's responsibility to fulfil these rights.</p>
+
+internet - Clicking ads as a form of protest or boycott - Law Stack Exchange | https://law.stackexchange.com/questions/57009/clicking-ads-as-a-form-of-protest-or-boycott
+<p>Would it be legal to click on ads on the internet, as a form of protest or boycott, making the advertisers waste time, money, or resources for something that you are not actually interested in? What exactly would make it legal or illegal, and why? Would there be a difference if such a thing was done by a single person privately, or if it was promoted publicly?</p>
+<p>Some examples of what I mean:</p>
+<ol>
+<li>John Doe hates McDonald's, for whatever ethical reason (maybe he's against junk food, meat, etc.). He therefore decides to click on every McDonald's advertisement he comes across (links, banners, YouTube ads, etc.). Note that McDonald's probably spends money every time somebody clicks on one of those ads, and that John Doe is not interested in buying anything from McDonald's.</li>
+<li>John Doe hates McDonald's. He decides to do what is described in point #1, but he will also promote such behavior, hoping that more people will do the same. The goal is to get as much people as possible to boycott McDonald's by clicking the ads.</li>
+<li>John Doe hates online advertising in general, for whatever ethical reasons (maybe he thinks that it is based on an unethical business model, it degrades the internet, etc.). He decides to begin clicking on ads at random, whenever he feels like it, even though he's not interested in the advertised product at all. He also decides to start a movement called JDCA (John Doe Clicks Ads) to promote such behavior, maybe even suggesting that programmers should write plugins to automate such behavior.</li>
+</ol>
+<p>Jurisdictions I'm interested in: US and EU.</p>
+<h1>No, it's not illegal...</h1>
+<p>Ads are shown as a contract between the site that hosts it and the advertising company. The contract does not stipulate that customers need to buy something, in fact, the contract can't force the customer to buy anything! At best, the contract can pay the hosting site based on the ad being shown, clicked, or any sale made after it.</p>
+<h1>...but you will do exactly the opposite</h1>
+<p>Advertizement is made to put your own brand into the head of people. In fact, most ads don't have any effect on people. As I am writing this, ads for a kid TV, travels to Turkey and the primetime films for the weekend on the TV-station I have on are shown. I have no intention of consuming any of these advertised products.</p>
+<p>Impact of a campaign is measured by two metrics: people reached, and people responding. People reached is measured in clicks. People responding is measured in changes in earnings or sales. Clicking the ad increases the reached rating. If the rating is bad, the ad campaign is just ineffective... which leads to the most paradoxical thing: Bad advertisement and good advertisement both lead to more advertisement - bad to level out the missing response, good to maximize the response. By clicking on the ad you just funnel more money to the ad industry.</p>
+<h1>When does it get illegal? [DDOS]</h1>
+<p>The only way it would become illegal is if John Doe sets up a computer - or rather a botnet - and has that network click the ads thousands of times per second. Google can handle easily <a href="https://www.internetlivestats.com/google-search-statistics/" rel="nofollow noreferrer">83,000 searches per second</a>, <a href="https://www.internetlivestats.com/one-second/" rel="nofollow noreferrer">twitter</a> gets more than 9000 tweets that are distributed to millions of people, Tumbler and Instagram handle together about 2500 posts per second. In fact, every second, more than 100000 Gigabytes of traffic run through the net. To have an impact on one site, you need to be truly a large number of calls... and then it is called a <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack" rel="nofollow noreferrer">DDOS</a>. DDOS is illegal under the <a href="https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act" rel="nofollow noreferrer">CFAA</a>, in this case <a href="https://www.law.cornell.edu/uscode/text/18/1030" rel="nofollow noreferrer">18 UC 1030</a>:</p>
+<blockquote>
+<p>(a)Whoever— (5) (A)knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization, to a protected computer;</p>
+<p>(b)Whoever conspires to commit or attempts to commit an offense under subsection (a) of this section shall be punished as provided in subsection (c) of this section.</p>
+</blockquote>
+<p>In the UK, you'd break the <a href="https://www.legislation.gov.uk/ukpga/1990/18/section/3" rel="nofollow noreferrer">Computer Misuse Act of 1990 section 3</a>, because denying someone else service via DDOS is unauthorized, clearly unauthorized, and prevents access to any data (the website) on any computer (the server):</p>
+<blockquote>
+<p>(1)A person is guilty of an offence if—
+(a)he does any unauthorised act in relation to a computer;
+(b)at the time when he does the act he knows that it is unauthorised; and
+(c)either subsection (2) or subsection (3) below applies.</p>
+<p>(2)This subsection applies if the person intends by doing the act—
+(b)to prevent or hinder access to any program or data held in any computer</p>
+</blockquote>
+<h2>But can a DDOS be protest? [NO!]</h2>
+<p><a href="https://petitions.obamawhitehouse.archives.gov/petition/make-distributed-denial-service-ddos-legal-form-protesting/" rel="nofollow noreferrer">Anonymous attempted to petition to make DDOS a legal form of protest in 2013</a>. The petition got 6,048 of the 25000 signatures needed to warrant an answer by the white house - unlike <a href="https://petitions.obamawhitehouse.archives.gov/response/isnt-petition-response-youre-looking/" rel="nofollow noreferrer">people in 2016 asking for a Death Star</a>.</p>
+<p>At least it prompted Joshua I. James to write a <a href="https://www.researchgate.net/publication/259497088_Legal_Protest_and_Distributed_Denial_of_Service" rel="nofollow noreferrer">research paper about the proposal in March</a>. He too points to the CFAA and Section 5A, especially the sentence I quoted above. Among a lot of stipulations, he points out that internet protest in the shape of a DDOS would need to follow the same rules as a legal protest on the streets - which for example demands that entrance to businesses can't be blocked, and one is not allowed to harass employees and customers.</p>
+<blockquote>
+<p>According to the general rules for legal protest as given, there are still a number of challenges. First and foremost, entrances to businesses should not be blocked. In terms of DDoS, if sustained denial of service takes place, then access (entrance) to the server (business)is eﬀectively blocked. This means that, at a minimum, sustained denial of service should be considered as a non-legal approach to protesting.</p>
+</blockquote>
+<p>Thus, he concludes sustained DDOS is per se can't be a legal protest, and even a non-sustained DDOS would impact people using the site in a way they will deem harassing - which means that even a non-permanent DDOS can't be a legal protest.</p>
+<p>And then comes the final blow: DDOS, unlike a real protest on the streets, can't, by its very nature, inform people of why there is protest, even if it were a form of protest! This means that nobody knows it is meant to be a protest and not a normal DDOS, and as it can't convey what the action is about, it can't be a proper protest.</p>
+<p>Legalities aside... You will most likely achieve the opposite with an interesting side effect. The campaign will prove to be very effective (as per the number of clicks), but the side owner may be penalized in some cases for receiving too many clicks.</p>
+<p>In the past I've had a colleague who used Google Ads on his website. A competitor wanted to harm his website, so he clicked 100+ times on each and every ad showing up on pages of this website, time and time again, for days on end. A few days later, his website was flagged by Google for receiving an unusually high number of clicks, and his Google account was banned later on.</p>
+<p>So you may not be hurting the ad campaign or the company you're trying to target, rather the innocent website owner who has nothing to do with your actions, and little or nothing with the company you're targetting.</p>
+<p>While it most likely is not illegal (because it is solicited access), it's not likely to be effective.  Advertising is one of the components of the online world that is most responsive to circumstances.</p>
+<p>Advertisers will detect that people who are "similar to you" (by whatever metrics are known about you) are likely to access their sites and not engage commercially.  They will adjust the categories of people to whom the ads are shown and you will see less of those ads and will not have as many opportunities to engage in such protests.</p>
+<p>In order to "promote" such behavior, you have to communicate with people who are likely to find you trustworthy.  Trust is built on similarity of views in something (not necessarily everything).  So the people who will hear about this protest from you will be the people who already do have enough in common with you to form certain discernible categories.</p>
+<p>This is no different from how Google knows what to suggest to you.  Or why my mother thinks that some topics are of universal interest and on everyone's mind (e.g. inner workings of the British royal family) even though no site ever tries to show me information about those topics.</p>
+<p>It depends primarily on the extent to which protesting is allowed in the jurisdiction. It is allowed and protected in the US, but may be illegal in North Korea. Let's make this about the US. A Denial of Service attack may be illegal under the <a href="https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act" rel="nofollow noreferrer">Computer Fraud and Abuse Act</a>, but what you describe (simple clicking without an interest in what's there) doesn't damage the system (<a href="https://www.law.cornell.edu/uscode/text/18/1030" rel="nofollow noreferrer">18 USC 1030(A)(5)</a>). It's hard to imagine a company caring enough to take the matter to court, but they might sue you, seeking an injunction to prohibit you from clicking their ads. To the extent that your actions constitute expression of ideas rather than vandalism, they are constitutionally protected. However, an automated DOS attack crosses the line (your First Amendment rights are not without limits).</p>
+
+united states - Is spitting on someone an assault? US and UK - Law Stack Exchange | https://law.stackexchange.com/questions/57336/is-spitting-on-someone-an-assault-us-and-uk
+<p>In <a href="https://youtu.be/gK4yeUBLHH0?t=358" rel="noreferrer">this video</a> a woman is shown spitting on store staff.</p>
+<p>This appears to be before covid mask regulations.</p>
+<p><strong>Question</strong></p>
+<p>In the US and UK, would this constitute assault and what penalties are applicable?</p>
+<p>If it is an offence, is it considered legally more serious now that covid is an issue?</p>
+<p>In England and Wales, deliberately spitting on someone is classed as battery under the common assault category of the Criminal Justice Act 1988. Corresponding legislation has been enacted covering Scotland and Northern Ireland. Battery is the application of unlawful force, and as well as spitting, covers incidents of pushing and slapping. Spitting, if done deliberately, is seen as an assault. Common assault carries a maximum penalty of six months in prison and/or a fine or community order. A prison sentence is generally reserved for cases where serious mental or physical injury was caused, and higher culpability is present. In other cases, a fine and community order is the more likely outcome. The offender will have higher culpability if they have previous convictions or there are aggravating factors, such as the attack being racially motivated, the assault was premeditated, or the victim was vulnerable. Increased penalties are being considered for offences aggravated by the intention to cause serious harm, such as disease transmission or the fear of it.</p>
+<p>Emergency workers, and public transport staff (e.g. bus drivers), are issued with 'spit kits' so they can take a sample if they are spat on (or spat at, and it lands elsewhere and can be collected), and this has secured arrests and convictions by use of DNA analysis.</p>
+<p><a href="https://i.stack.imgur.com/7N01S.png" rel="noreferrer"><img src="https://i.stack.imgur.com/7N01S.png" alt="enter image description here"></a></p>
+<p><a href="https://i.stack.imgur.com/QNhsQ.png" rel="noreferrer"><img src="https://i.stack.imgur.com/QNhsQ.png" alt="enter image description here"></a></p>
+<p>Even <a href="https://www.gazetteherald.co.uk/news/18384920.man-jailed-coronavirus-threats-spit-cough-police-officers/" rel="noreferrer">threatening to spit at police officers</a> can get you six months chokey at the moment.</p>
+<blockquote>
+<p>Common Assault – s.39 Criminal Justice Act 1988</p>
+<p>Assault, as distinct from battery, can be committed by an act
+indicating an intention to use unlawful violence against the person of
+another – for example, an aimed punch that fails to connect. In
+Misalati [2017] EWCA 2226 the appellant spat towards the complainant.
+The appeal court confirmed that although there was no actual violence,
+spitting is an assault whether it makes contact with the victim or
+causes fear of immediate unlawful physical contact.</p>
+</blockquote>
+<p><a href="https://www.cps.gov.uk/legal-guidance/offences-against-person-incorporating-charging-standard" rel="noreferrer">Common Assault – s.39 Criminal Justice Act 1988 (CPS legal guidance)</a></p>
+<p>This is also true in US common law:</p>
+<blockquote>
+<p>It is an assault at common law when any person intentionally, or
+recklessly, by active conduct threatens to apply unlawful physical
+force to the person of another in such a manner as to create in the
+mind of that other an apprehension that such force is about to be so
+applied.</p>
+</blockquote>
+<p><a href="https://core.ac.uk/download/pdf/216936162.pdf" rel="noreferrer">Threats as Criminal Assault Ranelle A. Gamble (Cleveland State Law Review)</a></p>
+<p>Spitting offences are mentioned:</p>
+<p><a href="https://www.cps.gov.uk/legal-guidance/offences-against-person-incorporating-charging-standard" rel="noreferrer">Crown Prosecution Service (Common Assault)
+</a></p>
+<p><a href="https://www.sentencingcouncil.org.uk/blog/post/assault-offences-explained/" rel="noreferrer">Assault Offences Explained (Sentencing Council)</a></p>
+<p><a href="https://www.cityoflondon.police.uk/news/city-of-london/news/2020/template4/press-releases/man-jailed-for-spitting-at-bus-driver-during-height-of-coronavirus-pandemic/" rel="noreferrer">Man jailed for spitting at bus driver (City of London Police)</a></p>
+<p><a href="https://www.google.co.uk/search?&amp;q=jailed%20for%20spitting&amp;oq=jailed%20for%20spitting" rel="noreferrer">Lots more here</a></p>
+<p>In the US, it is or is not, depending on the jurisdiction. One question is what to call it. <a href="https://www.oregonlaws.org/ors/166.065" rel="noreferrer">In Oregon</a> it is called "harassment"</p>
+<blockquote>
+<p>A person commits the crime of harassment if the person intentionally:
+(a) Harasses or annoys another person by: (A) Subjecting such other
+person to offensive physical contact...</p>
+</blockquote>
+<p>In <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=9A.36.041" rel="noreferrer">Washington</a>, there is no statutory definition of assault, which is thus left to the courts who follow common law interpretation that is is An intentional, unlawful touching that is harmful or offensive, and spitting is 4th degree assault because it isn't a higher degree of assault (it doesn't cause bodily harm and isn't against various specified (semi-)officials).</p>
+<p>In Ohio, spitting and water balloon attacks appear to be legal. There have been multiple attempts to prosecute people for spitting under the <a href="https://codes.ohio.gov/orc/2903.13v1" rel="noreferrer">assault statute</a>, which prohibits "caus[ing] or attempt[ing] to cause physical harm to another". Various rulings have excluded offensive contact, see <a href="https://www.supremecourt.ohio.gov/rod/docs/pdf/3/2016/2016-Ohio-7177.pdf" rel="noreferrer">Ohio v. Sepulveda</a></p>
+<blockquote>
+<p>In our own review of the case, and the caselaw that exists on the
+topic, we  cannot  categorically  find  that  spitting  on  someone
+would  never  constitute  an  Assault,  and  to  the  extent  that
+either  the  Bailey  or  the  Wyland  decisions  can  be  construed to
+be based on such a determination, we expressly decline to adopt them.</p>
+</blockquote>
+<p>Certain instances of spitting could cause physical harm, but in lieu of harm, spitting is not assault.</p>
+<p>Each state gets to define it's own. <a href="https://nccriminallaw.sog.unc.edu/spitting-person-assault/" rel="noreferrer">Here's an article</a> about North Carolina spitting law: assault there is defined via common law but does not include offensive contact. There are no clear court cases, but a couple of rulings that suggest that the courts might accept an assault conviction.</p>
+<p>It also may matter exactly where you are. In the case of <a href="https://caselaw.findlaw.com/us-9th-circuit/1424739.html" rel="noreferrer">US v. Lewellyn</a>, defendant was in the state of Washington, but on the grounds of the Veterans Administration Medical Center in Walla Walla, Washington. He was convicted of a federal crime, violation of 18 USC 113(a)(5). Being at the VA hospital, he was
+within the special maritime and territorial jurisdiction of the United States, making a federal case out of it. The appeals court approved the trial court's application of the common-law "offensive contact" branch of the definition of assault. (The ruling also cites parallel findings in other US circuits). The outcome is the same as would be the case under state law. But, this also indicates that spitting on federal property in Ohio is a federal crime, though not a state crime.</p>
+
+fair use - Can humming a bar of music considered as copyright infringement? - Law Stack Exchange | https://law.stackexchange.com/questions/57462/can-humming-a-bar-of-music-considered-as-copyright-infringement
+<p>I recently saw <a href="https://twitter.com/sssniperwolf/status/1066086219803615233" rel="noreferrer">a tweet</a> claiming a video got a DMCA claim based on humming a part of a song.</p>
+<p>Can uploading a (monetized) video of humming a bar or two of copyrighted music be considered as copyright infringement, or is it fair use?</p>
+<h2>Go to court and find out</h2>
+<p>There is no doubt that humming a tune and <em>recording</em> it (or performing it in public) is a <a href="https://en.wikipedia.org/wiki/Derivative_work" rel="noreferrer">derivative work</a> - a right reserved to the copyright owner.</p>
+<p>Whether it is <a href="https://en.wikipedia.org/wiki/Fair_use" rel="noreferrer">fair use</a> depends on the specifics of the case. From the tweet, we simply don’t have enough information, however, at a guess, it is probably not fair use.</p>
+<p>Fair use in law is</p>
+<blockquote>
+<p>Notwithstanding the provisions of sections 17&nbsp;U.S.C.&nbsp;§&nbsp;106 and 17&nbsp;U.S.C.&nbsp;§&nbsp;106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include:</p>
+<ol>
+<li>the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;</li>
+<li>the nature of the copyrighted work;</li>
+<li>the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and</li>
+<li>the effect of the use upon the potential market for or value of the copyrighted work.</li>
+</ol>
+<p>The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.</p>
+</blockquote>
+<p>Most people miss “for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research,” - if you aren’t doing one of those things then you start behind the 8-ball when yo move to the 4 factor test. Note that the “criticism, comment, news reporting,” etc. must be <em>about</em> the copyrighted work - I can’t use your copyrighted work to, for example, parody a politician unless you are that politician.</p>
+<p>Many people have <strong>completely</strong> the wrong idea about what copyright infringement and fair use actually is, in partly because the use of music on YouTube is allowed not because it’s fair use, but because YouTube were smart enough no negotiate <strong>and pay for</strong> a permissive licence with music producers. For a full explanation, see <a href="https://youtu.be/1Jwo5qc78QU" rel="noreferrer">this</a> video.</p>
+<p>The only way for the hummer to find out definitively is to file a counter-notice that, assuming the copyright holder files an infringement lawsuit, argue fair use. There is a reasonable chance that a fair use defense will succeed. The main impediment to fair use is the alternative that the "copying" is commercial. However, educational and "commentary" fair uses don't have to be given away for free (otherwise, there would be no textbook market, and they'd have to give newspapers away). It is more likely that the tiny amount of money gained from Youtube ad revenue does not constitute a "commercial" use in the court's judgment. The amount of copying is trivial and it is highly transformative, factors that favor fair use. Without inspection of the usage in context we can only surmise that this constitutes a "commentary", another factor favoring fair use. It is also highly unlikely that it will have an effect on the market for the original song. A fair use analysis requires <em>balancing</em>, that is, the list of factors isn't a list of fatal poisons. <em>On balance</em>, this is most likely fair use.</p>
+<p>This also resembles Lenz v. Universal Music, where the court found that the complainant has a duty to consider fair use, so it is possible that the copyright holder has put himself in jeopardy by filing the DMCA takedown.</p>
+<p>Broadly if the original is recognisable from the upload, there's a question of infringement. Fair use would include artistic, critical or academic comment or - possibly - the fact that the passage happened to be playing in the background of your wedding video.</p>
+<p>Here, though, the Question turns on someone's definition of "monetized", that someone being first the copyright holder and then the court.</p>
+<p>If that video is merely Posted on social media as celebration, you <em>prolly</em> won't be sued and if you were, you'd prolly walk free.</p>
+<p>If the same video features the bride and groom falling over the cake and you sell it to someone who pays for bloopers, you might well be sued. More likely the people who paid you a token fee, then published the video for profit would be in court.</p>
+<p>If you were paid extra because every movement the bride and groom made while falling over the cake just happened to match the music, you'd be more likely to lose but any of these cases might depend on the judge's mood and understanding.</p>
+<p>I'm reminded of a case whose name I forget, in which a second person recorded some music and the judge awarded copyright damages to the first. Does that make sense? It was never clear whether the judge understood, but he certainly refused to accept the axiomatic argument that the passage at issue was a standard musical progression, not more eligible for copyright than might be 1-2-4-8-16…</p>
+
+united states - Can lawyers ask about, and discriminate based on, iPhone ownership during a case involving Apple? - Law Stack Exchange | https://law.stackexchange.com/questions/56754/can-lawyers-ask-about-and-discriminate-based-on-iphone-ownership-during-a-case
+<p>In the <a href="https://arstechnica.com/gaming/2020/09/apple-vs-epic-hearing-previews-a-long-hard-fought-trial-to-come/" rel="noreferrer">lawsuit(s) between Epic and Apple</a>, assuming it ends up in front of a (federal) jury, are the lawyers for each side allowed to ask potential jurors whether they have iPhones or Android phones; and, on the other side, are they allowed to ask potential jurors if they play, or have played, or are related to someone who plays or has played, Fortnite (the game made by Epic that Apple removed, leading to the lawsuit)?</p>
+<p>If they are allowed to ask, are they allowed to strike jurors using their peremptory challenges, or could it be considered a 'for cause' strike?  Or would <em>Batson</em> or other reasoning prevent such a strike, even as a peremptory challenge?</p>
+<p>The question of whether they can ask these questions will be left to the trial judge. If the parties can make any kind of reasonable argument that consumers of one product or the other are likely to be partisans, the judge should allow the question, though it would not be error to refuse.</p>
+<p>For a good comparison, look at <em>Ham v. South Carolina</em>, 409 U.S. 524, 525–29 (1973). There, the defendant argued he was framed for a petty drug charge because of his involvement in the Civil Rights movement. He thought jurors might be prejudiced against him because he was black and because he had a beard, but the trial court refused to let him ask jurors about either possibility. The Supreme Court said it was an error to refuse to ask the questions about race, but not about the beard:</p>
+<blockquote>
+<p>The inquiry as to racial prejudice derives its constitutional stature from the firmly established precedent of Aldridge and the numerous state cases upon which it relied, and from a principal purpose as well as from the language of those who adopted the Fourteenth Amendment. The trial judge's refusal to inquire as to particular bias against beards, after his inquiries as to bias in general, does not reach the level of a constitutional violation.</p>
+</blockquote>
+<p>Assuming the question is permitted, the mere fact of using an iPhone would not be sufficient to obtain a "for cause" strike, which the court will only grant if the juror does not indicate that he would be able to fairly consider the case. "I like my iPhone" is not enough. "I like iPhones better than Android" is not enough. "I hate Google" is not enough. "I worship at the altar of Steve Jobs" is not enough.</p>
+<p>Instead, the question will be whether a juror indicates that they can set aside whatever prejudices they might have. The court is not required to strike them "as long as he or she ultimately asserts an ability to be fair and impartial." <a href="https://www.courtlistener.com/opinion/755229/98-cal-daily-op-serv-4099-98-daily-journal-dar-5626-united-states-of/" rel="nofollow noreferrer"><em>United States of America v. Abel Martinez-Salazar</em>, 146 F.3d 653, 659 (9th Cir. 1998)</a>.</p>
+<p><em>Batson</em> prohibits peremptory strike based on "gender, ethnic origin, or race." <em>United States v. Martinez-Salazar</em>, 528 U.S. 304, 315 (2000). Other than that, a lawyer is generally free to strike based on anything or nothing at all (though there remain some questions about whether <em>Batson</em> also applies to other protected classes, such as sexual orientation, disability, age, etc.). So peremptory strikes would be the only permissible means of eliminating iPhone users from the jury.</p>
+<blockquote>
+<p>If they are allowed to ask, are they allowed to strike jurors using their peremptory challenges, or could it be considered a 'for cause' strike?</p>
+</blockquote>
+<p>This makes it sound like parties cannot use a peremptory challenge if cause exists. They are free to do so, but doing so is poor strategy.</p>
+<p>In many jurisdictions, parties can ask questions in voir dire only for the purpose of discovering bias or other basis of unsuitability. They cannot ask questions for the purpose of acquiring information on which to make decisions regarding their use of peremptory challenges, although, having acquired information while inquiring about bias, they can use that information for peremptory challenge, as long as it doesn't involve protected classes such as race. Cell phone use has not been recognized as a protected class.</p>
+<p>An example of this principle being articulated:</p>
+<blockquote>
+<p>a trial court need not ask a voir dire
+question that is ‘not directed at a specific [cause] for disqualification [or is] merely ‘fishing’ for
+information to assist in the exercise of peremptory challenges
+<a href="https://mcdaa.org/images/downloads/Resource_Misc/voir_dire.pdf" rel="nofollow noreferrer">https://mcdaa.org/images/downloads/Resource_Misc/voir_dire.pdf</a></p>
+</blockquote>
+<p>This was based on Maryland law, so it may not apply in a federal court.</p>
+
+lawyer - What happens if you tell the court you are not satisfied with your attorney's representation? - Law Stack Exchange | https://law.stackexchange.com/questions/57136/what-happens-if-you-tell-the-court-you-are-not-satisfied-with-your-attorneys-re
+<p>I have often heard judges ask parties at the conclusion of a hearing on some matter, "Are you satisfied with your attorney's representation of you in this matter?"</p>
+<p>What is the consequence of a party answering that question in the negative?</p>
+<p>The judge would reject the defendant's guilty plea and proceed to trial.</p>
+<hr>
+<p>This is a common part of a <a href="https://en.wikipedia.org/wiki/Plea_colloquy" rel="noreferrer">plea colloquy</a>, which is a standard (often scripted) conversation that occurs between the judge and a defendant who is pleading guilty to ensure that the plea is voluntary and made with knowledge of its possible consequences.  It seeks to ensure that the defendant is aware of what they're charged with and the consequences of their plea, and that they were not improperly pressured into pleading guilty—for example, because they felt that their lawyer wasn't doing a good enough job.</p>
+<p>This is required by <a href="https://www.law.cornell.edu/rules/frcrmp/rule_11" rel="noreferrer">Federal Rules of Criminal Procedure Rule 11</a>, which requires that:</p>
+<blockquote>
+<p>Before accepting a plea of guilty or nolo contendere, the court must address the defendant personally in open court and determine that the plea is voluntary and did not result from force, threats, or promises (other than promises in a plea agreement)</p>
+</blockquote>
+<p>Many (possibly most/all) US states have similar rules. For example, <a href="https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/234/chapter5/s590.html&amp;d=reduce" rel="noreferrer">Pennsylvania law</a> states that "The judge may refuse to accept a plea of guilty or nolo contendere, and shall not accept it unless the judge determines after inquiry of the defendant that the plea is voluntarily and understandingly tendered."</p>
+<p>Examples of scripted questions to establish this include:</p>
+<ul>
+<li><a href="http://data.almd.uscourts.gov/rulesproc/docs/Guilty_Plea_Colloquy.pdf" rel="noreferrer">Are you fully satisfied with the counsel, representation, and advice given to you in this case by your attorney, Mr./Ms. __________?</a></li>
+<li><a href="https://www.nycourts.gov/judges/cji/8-Colloquies/Plea%20of%20Guilty.pdf" rel="noreferrer">Are you satisfied with the services of your lawyer?</a></li>
+<li><a href="https://web.archive.org/web/20070325125859/http://www.iand.uscourts.gov/iand/Documents.nsf/0/c66128779168000386256cd700525a80?OpenDocument" rel="noreferrer">[ Mr./Ms. defendant ], are you satisfied with the representation you have received from [ Mr./Ms. defense counsel]?</a></li>
+</ul>
+<p>If the defendant answered that they were not satisfied (and continued to give that answer when informed of the consequences of doing so, as occurred in the below example), the judge would reject the guilty plea and proceed to trial.  It's remarkably difficult to find a case in which anyone has actually done this.  The only one I could find was <a href="https://law.justia.com/cases/new-jersey/appellate-division-unpublished/2018/a3518-16.html" rel="noreferrer">this New Jersey case</a> in which the "defendant would not agree on the form that he was satisfied with defense counsel's work."  The judge informed the defendant in various ways that this would lead to the plea being rejected and proceeding to trial:</p>
+<blockquote>
+<p>Now, if you are not satisfied with your lawyer, I cannot take your plea bargain, sir. ... The only other thing I can do is schedule you for trial, Mr. Cuevas, which you are entitled to.</p>
+</blockquote>
+<blockquote>
+<p>Now, if you are not satisfied with your lawyer, I cannot take your plea bargain, sir.</p>
+</blockquote>
+<blockquote>
+<p>I can't take your plea after you're telling me that you're dissatisfied with your lawyer.</p>
+</blockquote>
+<blockquote>
+<p>If I can't take your plea because it's not appropriate and it's not legal, the only other thing I can do is schedule the case for trial.</p>
+</blockquote>
+
