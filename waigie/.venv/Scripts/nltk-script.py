@@ -1,4 +1,4 @@
-#!"d:\work and stuff\uni\cz4045\project\assignment 1\crawler\.venv\scripts\python.exe"
+#!"d:\work and stuff\uni\cz4045\project\assignment1\waigie\.venv\scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'nltk==3.5','console_scripts','nltk'
 import re
 import sys
